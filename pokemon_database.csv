@@ -1,967 +1,994 @@
 List,Ndex,Name,Type 1,Type 2,hasFemale,image
-#000 - Blank,#000,Blank,,,False,0
-#001 - Bulbasaur,#001,Bulbasaur,Grass,Poison,False,1
-#002 - Ivysaur,#002,Ivysaur,Grass,Poison,False,2
-#003 - Venusaur,#003,Venusaur,Grass,Poison,True,3
-#004 - Charmander,#004,Charmander,Fire,,False,4
-#005 - Charmeleon,#005,Charmeleon,Fire,,False,5
-#006 - Charizard,#006,Charizard,Fire,Flying,False,6
-#007 - Squirtle,#007,Squirtle,Water,,False,7
-#008 - Wartortle,#008,Wartortle,Water,,False,8
-#009 - Blastoise,#009,Blastoise,Water,,False,9
-#010 - Caterpie,#010,Caterpie,Bug,,False,10
-#011 - Metapod,#011,Metapod,Bug,,False,11
-#012 - Butterfree,#012,Butterfree,Bug,Flying,True,12
-#013 - Weedle,#013,Weedle,Bug,Poison,False,13
-#014 - Kakuna,#014,Kakuna,Bug,Poison,False,14
-#015 - Beedrill,#015,Beedrill,Bug,Poison,False,15
-#016 - Pidgey,#016,Pidgey,Normal,Flying,False,16
-#017 - Pidgeotto,#017,Pidgeotto,Normal,Flying,False,17
-#018 - Pidgeot,#018,Pidgeot,Normal,Flying,False,18
-#019 - Rattata,#019,Rattata,Normal,,True,19
-#019 - Rattata (Alola),#019,Rattata (Alola),Dark,Normal,False,19-a
-#020 - Raticate,#020,Raticate,Normal,,True,20
-#020 - Raticate (Alola),#020,Raticate (Alola),Dark,Normal,False,20-a
-#021 - Spearow,#021,Spearow,Normal,Flying,False,21
-#022 - Fearow,#022,Fearow,Normal,Flying,False,22
-#023 - Ekans,#023,Ekans,Poison,,False,23
-#024 - Arbok,#024,Arbok,Poison,,False,24
-#025 - Pikachu,#025,Pikachu,Electric,,True,25
-#026 - Raichu,#026,Raichu,Electric,,True,26
-#026 - Raichu (Alola),#026,Raichu (Alola),Electric,Psychic,False,26-a
-#027 - Sandshrew,#027,Sandshrew,Ground,,False,27
-#027 - Sandshrew (Alola),#027,Sandshrew (Alola),Ice,Steel,False,27-a
-#028 - Sandslash,#028,Sandslash,Ground,,False,28
-#028 - Sandslash (Alola),#028,Sandslash (Alola),Ice,Steel,False,28-a
-#029 - Nidoran♀,#029,Nidoran♀,Poison,,False,29
-#030 - Nidorina,#030,Nidorina,Poison,,False,30
-#031 - Nidoqueen,#031,Nidoqueen,Poison,Ground,False,31
-#032 - Nidoran♂,#032,Nidoran♂,Poison,,False,32
-#033 - Nidorino,#033,Nidorino,Poison,,False,33
-#034 - Nidoking,#034,Nidoking,Poison,Ground,False,34
-#035 - Clefairy,#035,Clefairy,Fairy,,False,35
-#036 - Clefable,#036,Clefable,Fairy,,False,36
-#037 - Vulpix,#037,Vulpix,Fire,,False,37
-#037 - Vulpix (Alola),#037,Vulpix (Alola),Ice,,False,37-a
-#038 - Ninetales,#038,Ninetales,Fire,,False,38
-#038 - Ninetales (Alola),#038,Ninetales (Alola),Ice,Fairy,False,38-a
-#039 - Jigglypuff,#039,Jigglypuff,Normal,Fairy,False,39
-#040 - Wigglytuff,#040,Wigglytuff,Normal,Fairy,False,40
-#041 - Zubat,#041,Zubat,Poison,Flying,True,41
-#042 - Golbat,#042,Golbat,Poison,Flying,True,42
-#043 - Oddish,#043,Oddish,Grass,Poison,False,43
-#044 - Gloom,#044,Gloom,Grass,Poison,True,44
-#045 - Vileplume,#045,Vileplume,Grass,Poison,True,45
-#046 - Paras,#046,Paras,Bug,Grass,False,46
-#047 - Parasect,#047,Parasect,Bug,Grass,False,47
-#048 - Venonat,#048,Venonat,Bug,Poison,False,48
-#049 - Venomoth,#049,Venomoth,Bug,Poison,False,49
-#050 - Diglett,#050,Diglett,Ground,,False,50
-#050 - Diglett (Alola),#050,Diglett (Alola),Ground,Steel,False,50-a
-#051 - Dugtrio,#051,Dugtrio,Ground,,False,51
-#051 - Dugtrio (Alola),#051,Dugtrio (Alola),Ground,Steel,False,51-a
-#052 - Meowth,#052,Meowth,Normal,,False,52
-#052 - Meowth (Alola),#052,Meowth (Alola),Dark,,False,52-a
-#052 - Meowth (Galar),#052,Meowth (Galar),Steel,,False,52-g
-#053 - Persian,#053,Persian,Normal,,False,53
-#053 - Persian (Alola),#053,Persian (Alola),Dark,,False,53-a
-#054 - Psyduck,#054,Psyduck,Water,,False,54
-#055 - Golduck,#055,Golduck,Water,,False,55
-#056 - Mankey,#056,Mankey,Fighting,,False,56
-#057 - Primeape,#057,Primeape,Fighting,,False,57
-#058 - Growlithe,#058,Growlithe,Fire,,False,58
-#059 - Arcanine,#059,Arcanine,Fire,,False,59
-#060 - Poliwag,#060,Poliwag,Water,,False,60
-#061 - Poliwhirl,#061,Poliwhirl,Water,,False,61
-#062 - Poliwrath,#062,Poliwrath,Water,Fighting,False,62
-#063 - Abra,#063,Abra,Psychic,,False,63
-#064 - Kadabra,#064,Kadabra,Psychic,,True,64
-#065 - Alakazam,#065,Alakazam,Psychic,,True,65
-#066 - Machop,#066,Machop,Fighting,,False,66
-#067 - Machoke,#067,Machoke,Fighting,,False,67
-#068 - Machamp,#068,Machamp,Fighting,,False,68
-#069 - Bellsprout,#069,Bellsprout,Grass,Poison,False,69
-#070 - Weepinbell,#070,Weepinbell,Grass,Poison,False,70
-#071 - Victreebel,#071,Victreebel,Grass,Poison,False,71
-#072 - Tentacool,#072,Tentacool,Water,Poison,False,72
-#073 - Tentacruel,#073,Tentacruel,Water,Poison,False,73
-#074 - Geodude,#074,Geodude,Rock,Ground,False,74
-#074 - Geodude (Alola),#074,Geodude (Alola),Rock,Electric,False,74-a
-#075 - Graveler,#075,Graveler,Rock,Ground,False,75
-#075 - Graveler (Alola),#075,Graveler (Alola),Rock,Electric,False,75-a
-#076 - Golem,#076,Golem,Rock,Ground,False,76
-#076 - Golem (Alola),#076,Golem (Alola),Rock,Electric,False,76-a
-#077 - Ponyta,#077,Ponyta,Fire,,False,77
-#077 - Ponyta (Galar),#077,Ponyta (Galar),Psychic,,False,77-g
-#078 - Rapidash,#078,Rapidash,Fire,,False,78
-#078 - Rapidash (Galar),#078,Rapidash (Galar),Psychic,Fairy,False,78-g
-#079 - Slowpoke,#079,Slowpoke,Water,Psychic,False,79
-#079 - Slowpoke (Galar),#079,Slowpoke (Galar),Psychic,,False,79-g
-#080 - Slowbro,#080,Slowbro,Water,Psychic,False,80
-#080 - Slowbro (Galar),#080,Slowbro (Galar),Poison,Psychic,False,80-g
-#081 - Magnemite,#081,Magnemite,Electric,Steel,False,81
-#082 - Magneton,#082,Magneton,Electric,Steel,False,82
-#083 - Farfetch'd,#083,Farfetch'd,Normal,Flying,False,83
-#083 - Farfetch'd (Galar),#083,Farfetch'd (Galar),Fighting,,False,83-g
-#084 - Doduo,#084,Doduo,Normal,Flying,True,84
-#085 - Dodrio,#085,Dodrio,Normal,Flying,True,85
-#086 - Seel,#086,Seel,Water,,False,86
-#087 - Dewgong,#087,Dewgong,Water,Ice,False,87
-#088 - Grimer,#088,Grimer,Poison,,False,88
-#088 - Grimer (Alola),#088,Grimer (Alola),Poison,Dark,False,88-a
-#089 - Muk,#089,Muk,Poison,,False,89
-#089 - Muk (Alola),#089,Muk (Alola),Poison,Dark,False,89-a
-#090 - Shellder,#090,Shellder,Water,,False,90
-#091 - Cloyster,#091,Cloyster,Water,Ice,False,91
-#092 - Gastly,#092,Gastly,Ghost,Poison,False,92
-#093 - Haunter,#093,Haunter,Ghost,Poison,False,93
-#094 - Gengar,#094,Gengar,Ghost,Poison,False,94
-#095 - Onix,#095,Onix,Rock,Ground,False,95
-#096 - Drowzee,#096,Drowzee,Psychic,,False,96
-#097 - Hypno,#097,Hypno,Psychic,,True,97
-#098 - Krabby,#098,Krabby,Water,,False,98
-#099 - Kingler,#099,Kingler,Water,,False,99
-#100 - Voltorb,#100,Voltorb,Electric,,False,100
-#101 - Electrode,#101,Electrode,Electric,,False,101
-#102 - Exeggcute,#102,Exeggcute,Grass,Psychic,False,102
-#103 - Exeggutor,#103,Exeggutor,Grass,Psychic,False,103
-#103 - Exeggutor (Alola),#103,Exeggutor (Alola),Grass,Dragon,False,103-a
-#104 - Cubone,#104,Cubone,Ground,,False,104
-#105 - Marowak,#105,Marowak,Ground,,False,105
-#105 - Marowak (Alola),#105,Marowak (Alola),Fire,Ghost,False,105-a
-#106 - Hitmonlee,#106,Hitmonlee,Fighting,,False,106
-#107 - Hitmonchan,#107,Hitmonchan,Fighting,,False,107
-#108 - Lickitung,#108,Lickitung,Normal,,False,108
-#109 - Koffing,#109,Koffing,Poison,,False,109
-#110 - Weezing,#110,Weezing,Poison,,False,110
-#110 - Weezing (Galar),#110,Weezing (Galar),Poison,Fairy,False,110-g
-#111 - Rhyhorn,#111,Rhyhorn,Ground,Rock,True,111
-#112 - Rhydon,#112,Rhydon,Ground,Rock,True,112
-#113 - Chansey,#113,Chansey,Normal,,False,113
-#114 - Tangela,#114,Tangela,Grass,,False,114
-#115 - Kangaskhan,#115,Kangaskhan,Normal,,False,115
-#116 - Horsea,#116,Horsea,Water,,True,116
-#117 - Seadra,#117,Seadra,Water,,True,117
-#118 - Goldeen,#118,Goldeen,Water,,False,118
-#119 - Seaking,#119,Seaking,Water,,False,119
-#120 - Staryu,#120,Staryu,Water,,False,120
-#121 - Starmie,#121,Starmie,Water,Psychic,False,121
-#122 - Mr. Mime,#122,Mr. Mime,Psychic,Fairy,False,122
-#122 - Mr. Mime (Galar),#122,Mr. Mime (Galar),Ice,Psychic,False,122-g
-#123 - Scyther,#123,Scyther,Bug,Flying,True,123
-#124 - Jynx,#124,Jynx,Ice,Psychic,False,124
-#125 - Electabuzz,#125,Electabuzz,Electric,,False,125
-#126 - Magmar,#126,Magmar,Fire,,False,126
-#127 - Pinsir,#127,Pinsir,Bug,,False,127
-#128 - Tauros,#128,Tauros,Normal,,False,128
-#129 - Magikarp,#129,Magikarp,Water,,True,129
-#130 - Gyarados,#130,Gyarados,Water,Flying,True,130
-#131 - Lapras,#131,Lapras,Water,Ice,False,131
-#132 - Ditto,#132,Ditto,Normal,,False,132
-#133 - Eevee,#133,Eevee,Normal,,True,133
-#134 - Vaporeon,#134,Vaporeon,Water,,False,134
-#135 - Jolteon,#135,Jolteon,Electric,,False,135
-#136 - Flareon,#136,Flareon,Fire,,False,136
-#137 - Porygon,#137,Porygon,Normal,,False,137
-#138 - Omanyte,#138,Omanyte,Rock,Water,False,138
-#139 - Omastar,#139,Omastar,Rock,Water,False,139
-#140 - Kabuto,#140,Kabuto,Rock,Water,False,140
-#141 - Kabutops,#141,Kabutops,Rock,Water,False,141
-#142 - Aerodactyl,#142,Aerodactyl,Rock,Flying,False,142
-#143 - Snorlax,#143,Snorlax,Normal,,False,143
-#144 - Articuno,#144,Articuno,Ice,Flying,False,144
-#144 - Articuno (Galar),#144,Articuno (Galar),Psychic,Flying,False,144-g
-#145 - Zapdos,#145,Zapdos,Electric,Flying,False,145
-#145 - Zapdos (Galar),#145,Zapdos (Galar),Fighting,Flying,False,145-g
-#146 - Moltres,#146,Moltres,Fire,Flying,False,146
-#146 - Moltres (Galar),#146,Moltres (Galar),Dark,Flying,False,146-g
-#147 - Dratini,#147,Dratini,Dragon,,False,147
-#148 - Dragonair,#148,Dragonair,Dragon,,False,148
-#149 - Dragonite,#149,Dragonite,Dragon,Flying,False,149
-#150 - Mewtwo,#150,Mewtwo,Psychic,,False,150
-#151 - Mew,#151,Mew,Psychic,,False,151
-#152 - Chikorita,#152,Chikorita,Grass,,False,152
-#153 - Bayleef,#153,Bayleef,Grass,,False,153
-#154 - Meganium,#154,Meganium,Grass,,True,154
-#155 - Cyndaquil,#155,Cyndaquil,Fire,,False,155
-#156 - Quilava,#156,Quilava,Fire,,False,156
-#157 - Typhlosion,#157,Typhlosion,Fire,,False,157
-#158 - Totodile,#158,Totodile,Water,,False,158
-#159 - Croconaw,#159,Croconaw,Water,,False,159
-#160 - Feraligatr,#160,Feraligatr,Water,,False,160
-#161 - Sentret,#161,Sentret,Normal,,False,161
-#162 - Furret,#162,Furret,Normal,,False,162
-#163 - Hoothoot,#163,Hoothoot,Normal,Flying,False,163
-#164 - Noctowl,#164,Noctowl,Normal,Flying,False,164
-#165 - Ledyba,#165,Ledyba,Bug,Flying,True,165
-#166 - Ledian,#166,Ledian,Bug,Flying,True,166
-#167 - Spinarak,#167,Spinarak,Bug,Poison,False,167
-#168 - Ariados,#168,Ariados,Bug,Poison,False,168
-#169 - Crobat,#169,Crobat,Poison,Flying,False,169
-#170 - Chinchou,#170,Chinchou,Water,Electric,False,170
-#171 - Lanturn,#171,Lanturn,Water,Electric,False,171
-#172 - Pichu,#172,Pichu,Electric,,False,172
-#173 - Cleffa,#173,Cleffa,Fairy,,False,173
-#174 - Igglybuff,#174,Igglybuff,Normal,Fairy,False,174
-#175 - Togepi,#175,Togepi,Fairy,,False,175
-#176 - Togetic,#176,Togetic,Fairy,Flying,False,176
-#177 - Natu,#177,Natu,Psychic,Flying,False,177
-#178 - Xatu,#178,Xatu,Psychic,Flying,True,178
-#179 - Mareep,#179,Mareep,Electric,,False,179
-#180 - Flaaffy,#180,Flaaffy,Electric,,False,180
-#181 - Ampharos,#181,Ampharos,Electric,,False,181
-#182 - Bellossom,#182,Bellossom,Grass,,False,182
-#183 - Marill,#183,Marill,Water,Fairy,False,183
-#184 - Azumarill,#184,Azumarill,Water,Fairy,False,184
-#185 - Sudowoodo,#185,Sudowoodo,Rock,,True,185
-#186 - Politoed,#186,Politoed,Water,,True,186
-#187 - Hoppip,#187,Hoppip,Grass,Flying,False,187
-#188 - Skiploom,#188,Skiploom,Grass,Flying,False,188
-#189 - Jumpluff,#189,Jumpluff,Grass,Flying,False,189
-#190 - Aipom,#190,Aipom,Normal,,True,190
-#191 - Sunkern,#191,Sunkern,Grass,,False,191
-#192 - Sunflora,#192,Sunflora,Grass,,False,192
-#193 - Yanma,#193,Yanma,Bug,Flying,False,193
-#194 - Wooper,#194,Wooper,Water,Ground,False,194
-#195 - Quagsire,#195,Quagsire,Water,Ground,True,195
-#196 - Espeon,#196,Espeon,Psychic,,False,196
-#197 - Umbreon,#197,Umbreon,Dark,,False,197
-#198 - Murkrow,#198,Murkrow,Dark,Flying,True,198
-#199 - Slowking,#199,Slowking,Water,Psychic,False,199
-#199 - Slowking (Galar),#199,Slowking (Galar),Poison,Psychic,False,199-g
-#200 - Misdreavus,#200,Misdreavus,Ghost,,False,200
-#201 - Unown,#201,Unown,Psychic,,False,201
-#202 - Wobbuffet,#202,Wobbuffet,Psychic,,True,202
-#203 - Girafarig,#203,Girafarig,Normal,Psychic,False,203
-#204 - Pineco,#204,Pineco,Bug,,False,204
-#205 - Forretress,#205,Forretress,Bug,Steel,False,205
-#206 - Dunsparce,#206,Dunsparce,Normal,,False,206
-#207 - Gligar,#207,Gligar,Ground,Flying,True,207
-#208 - Steelix,#208,Steelix,Steel,Ground,True,208
-#209 - Snubbull,#209,Snubbull,Fairy,,False,209
-#210 - Granbull,#210,Granbull,Fairy,,False,210
-#211 - Qwilfish,#211,Qwilfish,Water,Poison,False,211
-#212 - Scizor,#212,Scizor,Bug,Steel,True,212
-#213 - Shuckle,#213,Shuckle,Bug,Rock,False,213
-#214 - Heracross,#214,Heracross,Bug,Fighting,True,214
-#215 - Sneasel,#215,Sneasel,Dark,Ice,True,215
-#216 - Teddiursa,#216,Teddiursa,Normal,,False,216
-#217 - Ursaring,#217,Ursaring,Normal,,True,217
-#218 - Slugma,#218,Slugma,Fire,,False,218
-#219 - Magcargo,#219,Magcargo,Fire,Rock,False,219
-#220 - Swinub,#220,Swinub,Ice,Ground,False,220
-#221 - Piloswine,#221,Piloswine,Ice,Ground,True,221
-#222 - Corsola,#222,Corsola,Water,Rock,False,222
-#222 - Corsola (Galar),#222,Corsola (Galar),Ghost,,False,222-g
-#223 - Remoraid,#223,Remoraid,Water,,False,223
-#224 - Octillery,#224,Octillery,Water,,True,224
-#225 - Delibird,#225,Delibird,Ice,Flying,False,225
-#226 - Mantine,#226,Mantine,Water,Flying,False,226
-#227 - Skarmory,#227,Skarmory,Steel,Flying,False,227
-#228 - Houndour,#228,Houndour,Dark,Fire,False,228
-#229 - Houndoom,#229,Houndoom,Dark,Fire,True,229
-#230 - Kingdra,#230,Kingdra,Water,Dragon,False,230
-#231 - Phanpy,#231,Phanpy,Ground,,False,231
-#232 - Donphan,#232,Donphan,Ground,,True,232
-#233 - Porygon2,#233,Porygon2,Normal,,False,233
-#234 - Stantler,#234,Stantler,Normal,,False,234
-#235 - Smeargle,#235,Smeargle,Normal,,False,235
-#236 - Tyrogue,#236,Tyrogue,Fighting,,False,236
-#237 - Hitmontop,#237,Hitmontop,Fighting,,False,237
-#238 - Smoochum,#238,Smoochum,Ice,Psychic,False,238
-#239 - Elekid,#239,Elekid,Electric,,False,239
-#240 - Magby,#240,Magby,Fire,,False,240
-#241 - Miltank,#241,Miltank,Normal,,False,241
-#242 - Blissey,#242,Blissey,Normal,,False,242
-#243 - Raikou,#243,Raikou,Electric,,False,243
-#244 - Entei,#244,Entei,Fire,,False,244
-#245 - Suicune,#245,Suicune,Water,,False,245
-#246 - Larvitar,#246,Larvitar,Rock,Ground,False,246
-#247 - Pupitar,#247,Pupitar,Rock,Ground,False,247
-#248 - Tyranitar,#248,Tyranitar,Rock,Dark,False,248
-#249 - Lugia,#249,Lugia,Psychic,Flying,False,249
-#250 - Ho-Oh,#250,Ho-Oh,Fire,Flying,False,250
-#251 - Celebi,#251,Celebi,Psychic,Grass,False,251
-#252 - Treecko,#252,Treecko,Grass,,False,252
-#253 - Grovyle,#253,Grovyle,Grass,,False,253
-#254 - Sceptile,#254,Sceptile,Grass,,False,254
-#255 - Torchic,#255,Torchic,Fire,,False,255
-#256 - Combusken,#256,Combusken,Fire,Fighting,True,256
-#257 - Blaziken,#257,Blaziken,Fire,Fighting,True,257
-#258 - Mudkip,#258,Mudkip,Water,,False,258
-#259 - Marshtomp,#259,Marshtomp,Water,Ground,False,259
-#260 - Swampert,#260,Swampert,Water,Ground,False,260
-#261 - Poochyena,#261,Poochyena,Dark,,False,261
-#262 - Mightyena,#262,Mightyena,Dark,,False,262
-#263 - Zigzagoon,#263,Zigzagoon,Normal,,False,263
-#263 - Zigzagoon (Galar),#263,Zigzagoon (Galar),Dark,Normal,False,263-g
-#264 - Linoone,#264,Linoone,Normal,,False,264
-#264 - Linoone (Galar),#264,Linoone (Galar),Dark,Normal,False,264-g
-#265 - Wurmple,#265,Wurmple,Bug,,False,265
-#266 - Silcoon,#266,Silcoon,Bug,,False,266
-#267 - Beautifly,#267,Beautifly,Bug,Flying,True,267
-#268 - Cascoon,#268,Cascoon,Bug,,False,268
-#269 - Dustox,#269,Dustox,Bug,Poison,True,269
-#270 - Lotad,#270,Lotad,Water,Grass,False,270
-#271 - Lombre,#271,Lombre,Water,Grass,False,271
-#272 - Ludicolo,#272,Ludicolo,Water,Grass,True,272
-#273 - Seedot,#273,Seedot,Grass,,False,273
-#274 - Nuzleaf,#274,Nuzleaf,Grass,Dark,True,274
-#275 - Shiftry,#275,Shiftry,Grass,Dark,True,275
-#276 - Taillow,#276,Taillow,Normal,Flying,False,276
-#277 - Swellow,#277,Swellow,Normal,Flying,False,277
-#278 - Wingull,#278,Wingull,Water,Flying,False,278
-#279 - Pelipper,#279,Pelipper,Water,Flying,False,279
-#280 - Ralts,#280,Ralts,Psychic,Fairy,False,280
-#281 - Kirlia,#281,Kirlia,Psychic,Fairy,False,281
-#282 - Gardevoir,#282,Gardevoir,Psychic,Fairy,False,282
-#283 - Surskit,#283,Surskit,Bug,Water,False,283
-#284 - Masquerain,#284,Masquerain,Bug,Flying,False,284
-#285 - Shroomish,#285,Shroomish,Grass,,False,285
-#286 - Breloom,#286,Breloom,Grass,Fighting,False,286
-#287 - Slakoth,#287,Slakoth,Normal,,False,287
-#288 - Vigoroth,#288,Vigoroth,Normal,,False,288
-#289 - Slaking,#289,Slaking,Normal,,False,289
-#290 - Nincada,#290,Nincada,Bug,Ground,False,290
-#291 - Ninjask,#291,Ninjask,Bug,Flying,False,291
-#292 - Shedinja,#292,Shedinja,Bug,Ghost,False,292
-#293 - Whismur,#293,Whismur,Normal,,False,293
-#294 - Loudred,#294,Loudred,Normal,,False,294
-#295 - Exploud,#295,Exploud,Normal,,False,295
-#296 - Makuhita,#296,Makuhita,Fighting,,False,296
-#297 - Hariyama,#297,Hariyama,Fighting,,False,297
-#298 - Azurill,#298,Azurill,Normal,Fairy,False,298
-#299 - Nosepass,#299,Nosepass,Rock,,False,299
-#300 - Skitty,#300,Skitty,Normal,,False,300
-#301 - Delcatty,#301,Delcatty,Normal,,False,301
-#302 - Sableye,#302,Sableye,Dark,Ghost,False,302
-#303 - Mawile,#303,Mawile,Steel,Fairy,False,303
-#304 - Aron,#304,Aron,Steel,Rock,False,304
-#305 - Lairon,#305,Lairon,Steel,Rock,False,305
-#306 - Aggron,#306,Aggron,Steel,Rock,False,306
-#307 - Meditite,#307,Meditite,Fighting,Psychic,True,307
-#308 - Medicham,#308,Medicham,Fighting,Psychic,True,308
-#309 - Electrike,#309,Electrike,Electric,,False,309
-#310 - Manectric,#310,Manectric,Electric,,False,310
-#311 - Plusle,#311,Plusle,Electric,,False,311
-#312 - Minun,#312,Minun,Electric,,False,312
-#313 - Volbeat,#313,Volbeat,Bug,,False,313
-#314 - Illumise,#314,Illumise,Bug,,False,314
-#315 - Roselia,#315,Roselia,Grass,Poison,True,315
-#316 - Gulpin,#316,Gulpin,Poison,,True,316
-#317 - Swalot,#317,Swalot,Poison,,True,317
-#318 - Carvanha,#318,Carvanha,Water,Dark,False,318
-#319 - Sharpedo,#319,Sharpedo,Water,Dark,False,319
-#320 - Wailmer,#320,Wailmer,Water,,False,320
-#321 - Wailord,#321,Wailord,Water,,False,321
-#322 - Numel,#322,Numel,Fire,Ground,True,322
-#323 - Camerupt,#323,Camerupt,Fire,Ground,True,323
-#324 - Torkoal,#324,Torkoal,Fire,,False,324
-#325 - Spoink,#325,Spoink,Psychic,,False,325
-#326 - Grumpig,#326,Grumpig,Psychic,,False,326
-#327 - Spinda,#327,Spinda,Normal,,False,327
-#328 - Trapinch,#328,Trapinch,Ground,,False,328
-#329 - Vibrava,#329,Vibrava,Ground,Dragon,False,329
-#330 - Flygon,#330,Flygon,Ground,Dragon,False,330
-#331 - Cacnea,#331,Cacnea,Grass,,False,331
-#332 - Cacturne,#332,Cacturne,Grass,Dark,True,332
-#333 - Swablu,#333,Swablu,Normal,Flying,False,333
-#334 - Altaria,#334,Altaria,Dragon,Flying,False,334
-#335 - Zangoose,#335,Zangoose,Normal,,False,335
-#336 - Seviper,#336,Seviper,Poison,,False,336
-#337 - Lunatone,#337,Lunatone,Rock,Psychic,False,337
-#338 - Solrock,#338,Solrock,Rock,Psychic,False,338
-#339 - Barboach,#339,Barboach,Water,Ground,False,339
-#340 - Whiscash,#340,Whiscash,Water,Ground,False,340
-#341 - Corphish,#341,Corphish,Water,,False,341
-#342 - Crawdaunt,#342,Crawdaunt,Water,Dark,False,342
-#343 - Baltoy,#343,Baltoy,Ground,Psychic,False,343
-#344 - Claydol,#344,Claydol,Ground,Psychic,False,344
-#345 - Lileep,#345,Lileep,Rock,Grass,False,345
-#346 - Cradily,#346,Cradily,Rock,Grass,False,346
-#347 - Anorith,#347,Anorith,Rock,Bug,False,347
-#348 - Armaldo,#348,Armaldo,Rock,Bug,False,348
-#349 - Feebas,#349,Feebas,Water,,False,349
-#350 - Milotic,#350,Milotic,Water,,True,350
-#351 - Castform (normal),#351,Castform (normal),Normal,,False,351
-#351 - Castform (fire),#351,Castform (fire),Fire,,False,351-fire
-#351 - Castform (water),#351,Castform (water),Water,,False,351-water
-#351 - Castform (ice),#351,Castform (ice),Ice,,False,351-ice
-#352 - Kecleon,#352,Kecleon,Normal,,False,352
-#353 - Shuppet,#353,Shuppet,Ghost,,False,353
-#354 - Banette,#354,Banette,Ghost,,False,354
-#355 - Duskull,#355,Duskull,Ghost,,False,355
-#356 - Dusclops,#356,Dusclops,Ghost,,False,356
-#357 - Tropius,#357,Tropius,Grass,Flying,False,357
-#358 - Chimecho,#358,Chimecho,Psychic,,False,358
-#359 - Absol,#359,Absol,Dark,,False,359
-#360 - Wynaut,#360,Wynaut,Psychic,,False,360
-#361 - Snorunt,#361,Snorunt,Ice,,False,361
-#362 - Glalie,#362,Glalie,Ice,,False,362
-#363 - Spheal,#363,Spheal,Ice,Water,False,363
-#364 - Sealeo,#364,Sealeo,Ice,Water,False,364
-#365 - Walrein,#365,Walrein,Ice,Water,False,365
-#366 - Clamperl,#366,Clamperl,Water,,False,366
-#367 - Huntail,#367,Huntail,Water,,False,367
-#368 - Gorebyss,#368,Gorebyss,Water,,False,368
-#369 - Relicanth,#369,Relicanth,Water,Rock,True,369
-#370 - Luvdisc,#370,Luvdisc,Water,,False,370
-#371 - Bagon,#371,Bagon,Dragon,,False,371
-#372 - Shelgon,#372,Shelgon,Dragon,,False,372
-#373 - Salamence,#373,Salamence,Dragon,Flying,False,373
-#374 - Beldum,#374,Beldum,Steel,Psychic,False,374
-#375 - Metang,#375,Metang,Steel,Psychic,False,375
-#376 - Metagross,#376,Metagross,Steel,Psychic,False,376
-#377 - Regirock,#377,Regirock,Rock,,False,377
-#378 - Regice,#378,Regice,Ice,,False,378
-#379 - Registeel,#379,Registeel,Steel,,False,379
-#380 - Latias,#380,Latias,Dragon,Psychic,False,380
-#381 - Latios,#381,Latios,Dragon,Psychic,False,381
-#382 - Kyogre,#382,Kyogre,Water,,False,382
-#383 - Groudon,#383,Groudon,Ground,,False,383
-#384 - Rayquaza,#384,Rayquaza,Dragon,Flying,False,384
-#385 - Jirachi,#385,Jirachi,Steel,Psychic,False,385
-#386 - Deoxys (Normal),#386,Deoxys (Normal),Psychic,,False,386
-#386 - Deoxys (Attack),#386,Deoxys (Attack),Psychic,,False,386-attack
-#386 - Deoxys (Defense),#386,Deoxys (Defense),Psychic,,False,386-defense
-#386 - Deoxys (Speed),#386,Deoxys (Speed),Psychic,,False,386-speed
-#387 - Turtwig,#387,Turtwig,Grass,,False,387
-#388 - Grotle,#388,Grotle,Grass,,False,388
-#389 - Torterra,#389,Torterra,Grass,Ground,False,389
-#390 - Chimchar,#390,Chimchar,Fire,,False,390
-#391 - Monferno,#391,Monferno,Fire,Fighting,False,391
-#392 - Infernape,#392,Infernape,Fire,Fighting,False,392
-#393 - Piplup,#393,Piplup,Water,,False,393
-#394 - Prinplup,#394,Prinplup,Water,,False,394
-#395 - Empoleon,#395,Empoleon,Water,Steel,False,395
-#396 - Starly,#396,Starly,Normal,Flying,True,396
-#397 - Staravia,#397,Staravia,Normal,Flying,True,397
-#398 - Staraptor,#398,Staraptor,Normal,Flying,True,398
-#399 - Bidoof,#399,Bidoof,Normal,,True,399
-#400 - Bibarel,#400,Bibarel,Normal,Water,True,400
-#401 - Kricketot,#401,Kricketot,Bug,,True,401
-#402 - Kricketune,#402,Kricketune,Bug,,True,402
-#403 - Shinx,#403,Shinx,Electric,,True,403
-#404 - Luxio,#404,Luxio,Electric,,True,404
-#405 - Luxray,#405,Luxray,Electric,,True,405
-#406 - Budew,#406,Budew,Grass,Poison,False,406
-#407 - Roserade,#407,Roserade,Grass,Poison,True,407
-#408 - Cranidos,#408,Cranidos,Rock,,False,408
-#409 - Rampardos,#409,Rampardos,Rock,,False,409
-#410 - Shieldon,#410,Shieldon,Rock,Steel,False,410
-#411 - Bastiodon,#411,Bastiodon,Rock,Steel,False,411
-#412 - Burmy (Plant),#412,Burmy (Plant),Bug,,False,412-plant
-#412 - Burmy (Sandy),#412,Burmy (Sandy),Bug,,False,412-sandy
-#412 - Burmy (Trash),#412,Burmy (Trash),Bug,,False,412-trash
-#413 - Wormadam (Plant),#413,Wormadam (Plant),Bug,Grass,False,413-plant
-#413 - Wormadam (Sandy),#413,Wormadam (Sandy),Bug,Ground,False,413-sandy
-#413 - Wormadam (Trash),#413,Wormadam (Trash),Bug,Steel,False,413-trash
-#414 - Mothim,#414,Mothim,Bug,Flying,False,414
-#415 - Combee,#415,Combee,Bug,Flying,True,415
-#416 - Vespiquen,#416,Vespiquen,Bug,Flying,False,416
-#417 - Pachirisu,#417,Pachirisu,Electric,,True,417
-#418 - Buizel,#418,Buizel,Water,,True,418
-#419 - Floatzel,#419,Floatzel,Water,,True,419
-#420 - Cherubi,#420,Cherubi,Grass,,False,420
-#421 - Cherrim,#421,Cherrim,Grass,,False,421
-#422 - Shellos (West),#422,Shellos (West),Water,,False,422-west
-#422 - Shellos (East),#422,Shellos (East),Water,,False,422-east
-#423 - Gastrodon (West),#423,Gastrodon (West),Water,Ground,False,423-west
-#423 - Gastrodon (East),#423,Gastrodon (East),Water,Ground,False,423-east
-#424 - Ambipom,#424,Ambipom,Normal,,True,424
-#425 - Drifloon,#425,Drifloon,Ghost,Flying,False,425
-#426 - Drifblim,#426,Drifblim,Ghost,Flying,False,426
-#427 - Buneary,#427,Buneary,Normal,,False,427
-#428 - Lopunny,#428,Lopunny,Normal,,False,428
-#429 - Mismagius,#429,Mismagius,Ghost,,False,429
-#430 - Honchkrow,#430,Honchkrow,Dark,Flying,False,430
-#431 - Glameow,#431,Glameow,Normal,,False,431
-#432 - Purugly,#432,Purugly,Normal,,False,432
-#433 - Chingling,#433,Chingling,Psychic,,False,433
-#434 - Stunky,#434,Stunky,Poison,Dark,False,434
-#435 - Skuntank,#435,Skuntank,Poison,Dark,False,435
-#436 - Bronzor,#436,Bronzor,Steel,Psychic,False,436
-#437 - Bronzong,#437,Bronzong,Steel,Psychic,False,437
-#438 - Bonsly,#438,Bonsly,Rock,,False,438
-#439 - Mime Jr.,#439,Mime Jr.,Psychic,Fairy,False,439
-#440 - Happiny,#440,Happiny,Normal,,False,440
-#441 - Chatot,#441,Chatot,Normal,Flying,False,441
-#442 - Spiritomb,#442,Spiritomb,Ghost,Dark,False,442
-#443 - Gible,#443,Gible,Dragon,Ground,True,443
-#444 - Gabite,#444,Gabite,Dragon,Ground,True,444
-#445 - Garchomp,#445,Garchomp,Dragon,Ground,True,445
-#446 - Munchlax,#446,Munchlax,Normal,,False,446
-#447 - Riolu,#447,Riolu,Fighting,,False,447
-#448 - Lucario,#448,Lucario,Fighting,Steel,False,448
-#449 - Hippopotas,#449,Hippopotas,Ground,,True,449
-#450 - Hippowdon,#450,Hippowdon,Ground,,True,450
-#451 - Skorupi,#451,Skorupi,Poison,Bug,False,451
-#452 - Drapion,#452,Drapion,Poison,Dark,False,452
-#453 - Croagunk,#453,Croagunk,Poison,Fighting,True,453
-#454 - Toxicroak,#454,Toxicroak,Poison,Fighting,True,454
-#455 - Carnivine,#455,Carnivine,Grass,,False,455
-#456 - Finneon,#456,Finneon,Water,,True,456
-#457 - Lumineon,#457,Lumineon,Water,,True,457
-#458 - Mantyke,#458,Mantyke,Water,Flying,False,458
-#459 - Snover,#459,Snover,Grass,Ice,True,459
-#460 - Abomasnow,#460,Abomasnow,Grass,Ice,True,460
-#461 - Weavile,#461,Weavile,Dark,Ice,True,461
-#462 - Magnezone,#462,Magnezone,Electric,Steel,False,462
-#463 - Lickilicky,#463,Lickilicky,Normal,,False,463
-#464 - Rhyperior,#464,Rhyperior,Ground,Rock,True,464
-#465 - Tangrowth,#465,Tangrowth,Grass,,True,465
-#466 - Electivire,#466,Electivire,Electric,,False,466
-#467 - Magmortar,#467,Magmortar,Fire,,False,467
-#468 - Togekiss,#468,Togekiss,Fairy,Flying,False,468
-#469 - Yanmega,#469,Yanmega,Bug,Flying,False,469
-#470 - Leafeon,#470,Leafeon,Grass,,False,470
-#471 - Glaceon,#471,Glaceon,Ice,,False,471
-#472 - Gliscor,#472,Gliscor,Ground,Flying,False,472
-#473 - Mamoswine,#473,Mamoswine,Ice,Ground,True,473
-#474 - Porygon-Z,#474,Porygon-Z,Normal,,False,474
-#475 - Gallade,#475,Gallade,Psychic,Fighting,False,475
-#476 - Probopass,#476,Probopass,Rock,Steel,False,476
-#477 - Dusknoir,#477,Dusknoir,Ghost,,False,477
-#478 - Froslass,#478,Froslass,Ice,Ghost,False,478
-#479 - Rotom,#479,Rotom,Electric,Ghost,False,479
-#479 - Rotom (Heat),#479,Rotom (Heat),Electric,Fire,False,479-heat
-#479 - Rotom (Wash),#479,Rotom (Wash),Electric,Water,False,479-wash
-#479 - Rotom (Frost),#479,Rotom (Frost),Electric,Ice,False,479-frost
-#479 - Rotom (Fan),#479,Rotom (Fan),Electric,Flying,False,479-fan
-#479 - Rotom (Mow),#479,Rotom (Mow),Electric,Grass,False,479-mow
-#480 - Uxie,#480,Uxie,Psychic,,False,480
-#481 - Mesprit,#481,Mesprit,Psychic,,False,481
-#482 - Azelf,#482,Azelf,Psychic,,False,482
-#483 - Dialga,#483,Dialga,Steel,Dragon,False,483
-#484 - Palkia,#484,Palkia,Water,Dragon,False,484
-#485 - Heatran,#485,Heatran,Fire,Steel,False,485
-#486 - Regigigas,#486,Regigigas,Normal,,False,486
-#487 - Giratina (Altered),#487,Giratina (Altered),Ghost,Dragon,False,487-altered
-#487 - Giratina (Original),#487,Giratina (Original),Ghost,Dragon,False,487-original
-#488 - Cresselia,#488,Cresselia,Psychic,,False,488
-#489 - Phione,#489,Phione,Water,,False,489
-#490 - Manaphy,#490,Manaphy,Water,,False,490
-#491 - Darkrai,#491,Darkrai,Dark,,False,491
-#492 - Shaymin (Land),#492,Shaymin (Land),Grass,,False,492-land
-#492 - Shaymin (Sky),#492,Shaymin (Sky),Grass,Flying,False,492-sky
-#493 - Arceus,#493,Arceus,Normal,,False,493
-#494 - Victini,#494,Victini,Psychic,Fire,False,494
-#495 - Snivy,#495,Snivy,Grass,,False,495
-#496 - Servine,#496,Servine,Grass,,False,496
-#497 - Serperior,#497,Serperior,Grass,,False,497
-#498 - Tepig,#498,Tepig,Fire,,False,498
-#499 - Pignite,#499,Pignite,Fire,Fighting,False,499
-#500 - Emboar,#500,Emboar,Fire,Fighting,False,500
-#501 - Oshawott,#501,Oshawott,Water,,False,501
-#502 - Dewott,#502,Dewott,Water,,False,502
-#503 - Samurott,#503,Samurott,Water,,False,503
-#504 - Patrat,#504,Patrat,Normal,,False,504
-#505 - Watchog,#505,Watchog,Normal,,False,505
-#506 - Lillipup,#506,Lillipup,Normal,,False,506
-#507 - Herdier,#507,Herdier,Normal,,False,507
-#508 - Stoutland,#508,Stoutland,Normal,,False,508
-#509 - Purrloin,#509,Purrloin,Dark,,False,509
-#510 - Liepard,#510,Liepard,Dark,,False,510
-#511 - Pansage,#511,Pansage,Grass,,False,511
-#512 - Simisage,#512,Simisage,Grass,,False,512
-#513 - Pansear,#513,Pansear,Fire,,False,513
-#514 - Simisear,#514,Simisear,Fire,,False,514
-#515 - Panpour,#515,Panpour,Water,,False,515
-#516 - Simipour,#516,Simipour,Water,,False,516
-#517 - Munna,#517,Munna,Psychic,,False,517
-#518 - Musharna,#518,Musharna,Psychic,,False,518
-#519 - Pidove,#519,Pidove,Normal,Flying,False,519
-#520 - Tranquill,#520,Tranquill,Normal,Flying,False,520
-#521 - Unfezant,#521,Unfezant,Normal,Flying,True,521
-#522 - Blitzle,#522,Blitzle,Electric,,False,522
-#523 - Zebstrika,#523,Zebstrika,Electric,,False,523
-#524 - Roggenrola,#524,Roggenrola,Rock,,False,524
-#525 - Boldore,#525,Boldore,Rock,,False,525
-#526 - Gigalith,#526,Gigalith,Rock,,False,526
-#527 - Woobat,#527,Woobat,Psychic,Flying,False,527
-#528 - Swoobat,#528,Swoobat,Psychic,Flying,False,528
-#529 - Drilbur,#529,Drilbur,Ground,,False,529
-#530 - Excadrill,#530,Excadrill,Ground,Steel,False,530
-#531 - Audino,#531,Audino,Normal,,False,531
-#532 - Timburr,#532,Timburr,Fighting,,False,532
-#533 - Gurdurr,#533,Gurdurr,Fighting,,False,533
-#534 - Conkeldurr,#534,Conkeldurr,Fighting,,False,534
-#535 - Tympole,#535,Tympole,Water,,False,535
-#536 - Palpitoad,#536,Palpitoad,Water,Ground,False,536
-#537 - Seismitoad,#537,Seismitoad,Water,Ground,False,537
-#538 - Throh,#538,Throh,Fighting,,False,538
-#539 - Sawk,#539,Sawk,Fighting,,False,539
-#540 - Sewaddle,#540,Sewaddle,Bug,Grass,False,540
-#541 - Swadloon,#541,Swadloon,Bug,Grass,False,541
-#542 - Leavanny,#542,Leavanny,Bug,Grass,False,542
-#543 - Venipede,#543,Venipede,Bug,Poison,False,543
-#544 - Whirlipede,#544,Whirlipede,Bug,Poison,False,544
-#545 - Scolipede,#545,Scolipede,Bug,Poison,False,545
-#546 - Cottonee,#546,Cottonee,Grass,Fairy,False,546
-#547 - Whimsicott,#547,Whimsicott,Grass,Fairy,False,547
-#548 - Petilil,#548,Petilil,Grass,,False,548
-#549 - Lilligant,#549,Lilligant,Grass,,False,549
-#550 - Basculin (Blue),#550,Basculin (Blue),Water,,False,550-blue
-#550 - Basculin (Red),#550,Basculin (Red),Water,,False,550-red
-#551 - Sandile,#551,Sandile,Ground,Dark,False,551
-#552 - Krokorok,#552,Krokorok,Ground,Dark,False,552
-#553 - Krookodile,#553,Krookodile,Ground,Dark,False,553
-#554 - Darumaka,#554,Darumaka,Fire,,False,554
-#554 - Darumaka (Galar),#554,Darumaka (Galar),Ice,,False,554-g
-#555 - Darmanitan,#555,Darmanitan,Fire,,False,555
-#555 - Darmanitan (Galar),#555,Darmanitan (Galar),Ice,,False,555-g
-#556 - Maractus,#556,Maractus,Grass,,False,556
-#557 - Dwebble,#557,Dwebble,Bug,Rock,False,557
-#558 - Crustle,#558,Crustle,Bug,Rock,False,558
-#559 - Scraggy,#559,Scraggy,Dark,Fighting,False,559
-#560 - Scrafty,#560,Scrafty,Dark,Fighting,False,560
-#561 - Sigilyph,#561,Sigilyph,Psychic,Flying,False,561
-#562 - Yamask,#562,Yamask,Ghost,,False,562
-#562 - Yamask (Galar),#562,Yamask (Galar),Ground,Ghost,False,562-g
-#563 - Cofagrigus,#563,Cofagrigus,Ghost,,False,563
-#564 - Tirtouga,#564,Tirtouga,Water,Rock,False,564
-#565 - Carracosta,#565,Carracosta,Water,Rock,False,565
-#566 - Archen,#566,Archen,Rock,Flying,False,566
-#567 - Archeops,#567,Archeops,Rock,Flying,False,567
-#568 - Trubbish,#568,Trubbish,Poison,,False,568
-#569 - Garbodor,#569,Garbodor,Poison,,False,569
-#570 - Zorua,#570,Zorua,Dark,,False,570
-#571 - Zoroark,#571,Zoroark,Dark,,False,571
-#572 - Minccino,#572,Minccino,Normal,,False,572
-#573 - Cinccino,#573,Cinccino,Normal,,False,573
-#574 - Gothita,#574,Gothita,Psychic,,False,574
-#575 - Gothorita,#575,Gothorita,Psychic,,False,575
-#576 - Gothitelle,#576,Gothitelle,Psychic,,False,576
-#577 - Solosis,#577,Solosis,Psychic,,False,577
-#578 - Duosion,#578,Duosion,Psychic,,False,578
-#579 - Reuniclus,#579,Reuniclus,Psychic,,False,579
-#580 - Ducklett,#580,Ducklett,Water,Flying,False,580
-#581 - Swanna,#581,Swanna,Water,Flying,False,581
-#582 - Vanillite,#582,Vanillite,Ice,,False,582
-#583 - Vanillish,#583,Vanillish,Ice,,False,583
-#584 - Vanilluxe,#584,Vanilluxe,Ice,,False,584
-#585 - Deerling,#585,Deerling,Normal,Grass,False,585
-#586 - Sawsbuck,#586,Sawsbuck,Normal,Grass,False,586
-#587 - Emolga,#587,Emolga,Electric,Flying,False,587
-#588 - Karrablast,#588,Karrablast,Bug,,False,588
-#589 - Escavalier,#589,Escavalier,Bug,Steel,False,589
-#590 - Foongus,#590,Foongus,Grass,Poison,False,590
-#591 - Amoonguss,#591,Amoonguss,Grass,Poison,False,591
-#592 - Frillish,#592,Frillish,Water,Ghost,True,592
-#593 - Jellicent,#593,Jellicent,Water,Ghost,True,593
-#594 - Alomomola,#594,Alomomola,Water,,False,594
-#595 - Joltik,#595,Joltik,Bug,Electric,False,595
-#596 - Galvantula,#596,Galvantula,Bug,Electric,False,596
-#597 - Ferroseed,#597,Ferroseed,Grass,Steel,False,597
-#598 - Ferrothorn,#598,Ferrothorn,Grass,Steel,False,598
-#599 - Klink,#599,Klink,Steel,,False,599
-#600 - Klang,#600,Klang,Steel,,False,600
-#601 - Klinklang,#601,Klinklang,Steel,,False,601
-#602 - Tynamo,#602,Tynamo,Electric,,False,602
-#603 - Eelektrik,#603,Eelektrik,Electric,,False,603
-#604 - Eelektross,#604,Eelektross,Electric,,False,604
-#605 - Elgyem,#605,Elgyem,Psychic,,False,605
-#606 - Beheeyem,#606,Beheeyem,Psychic,,False,606
-#607 - Litwick,#607,Litwick,Ghost,Fire,False,607
-#608 - Lampent,#608,Lampent,Ghost,Fire,False,608
-#609 - Chandelure,#609,Chandelure,Ghost,Fire,False,609
-#610 - Axew,#610,Axew,Dragon,,False,610
-#611 - Fraxure,#611,Fraxure,Dragon,,False,611
-#612 - Haxorus,#612,Haxorus,Dragon,,False,612
-#613 - Cubchoo,#613,Cubchoo,Ice,,False,613
-#614 - Beartic,#614,Beartic,Ice,,False,614
-#615 - Cryogonal,#615,Cryogonal,Ice,,False,615
-#616 - Shelmet,#616,Shelmet,Bug,,False,616
-#617 - Accelgor,#617,Accelgor,Bug,,False,617
-#618 - Stunfisk,#618,Stunfisk,Ground,Electric,False,618
-#618 - Stunfisk (Galar),#618,Stunfisk (Galar),Ground,Steel,False,618-g
-#619 - Mienfoo,#619,Mienfoo,Fighting,,False,619
-#620 - Mienshao,#620,Mienshao,Fighting,,False,620
-#621 - Druddigon,#621,Druddigon,Dragon,,False,621
-#622 - Golett,#622,Golett,Ground,Ghost,False,622
-#623 - Golurk,#623,Golurk,Ground,Ghost,False,623
-#624 - Pawniard,#624,Pawniard,Dark,Steel,False,624
-#625 - Bisharp,#625,Bisharp,Dark,Steel,False,625
-#626 - Bouffalant,#626,Bouffalant,Normal,,False,626
-#627 - Rufflet,#627,Rufflet,Normal,Flying,False,627
-#628 - Braviary,#628,Braviary,Normal,Flying,False,628
-#629 - Vullaby,#629,Vullaby,Dark,Flying,False,629
-#630 - Mandibuzz,#630,Mandibuzz,Dark,Flying,False,630
-#631 - Heatmor,#631,Heatmor,Fire,,False,631
-#632 - Durant,#632,Durant,Bug,Steel,False,632
-#633 - Deino,#633,Deino,Dark,Dragon,False,633
-#634 - Zweilous,#634,Zweilous,Dark,Dragon,False,634
-#635 - Hydreigon,#635,Hydreigon,Dark,Dragon,False,635
-#636 - Larvesta,#636,Larvesta,Bug,Fire,False,636
-#637 - Volcarona,#637,Volcarona,Bug,Fire,False,637
-#638 - Cobalion,#638,Cobalion,Steel,Fighting,False,638
-#639 - Terrakion,#639,Terrakion,Rock,Fighting,False,639
-#640 - Virizion,#640,Virizion,Grass,Fighting,False,640
-#641 - Tornadus,#641,Tornadus,Flying,,False,641
-#642 - Thundurus,#642,Thundurus,Electric,Flying,False,642
-#643 - Reshiram,#643,Reshiram,Dragon,Fire,False,643
-#644 - Zekrom,#644,Zekrom,Dragon,Electric,False,644
-#645 - Landorus,#645,Landorus,Ground,Flying,False,645
-#646 - Kyurem,#646,Kyurem,Dragon,Ice,False,646
-#647 - Keldeo,#647,Keldeo,Water,Fighting,False,647
-#648 - Meloetta (Aria),#648,Meloetta (Aria),Normal,Psychic,False,648-aria
-#648 - Meloetta (Pirouette),#648,Meloetta (Pirouette),Normal,Fighting,False,648-pirouette
-#649 - Genesect,#649,Genesect,Bug,Steel,False,649
-#650 - Chespin,#650,Chespin,Grass,,False,650
-#651 - Quilladin,#651,Quilladin,Grass,,False,651
-#652 - Chesnaught,#652,Chesnaught,Grass,Fighting,False,652
-#653 - Fennekin,#653,Fennekin,Fire,,False,653
-#654 - Braixen,#654,Braixen,Fire,,False,654
-#655 - Delphox,#655,Delphox,Fire,Psychic,False,655
-#656 - Froakie,#656,Froakie,Water,,False,656
-#657 - Frogadier,#657,Frogadier,Water,,False,657
-#658 - Greninja,#658,Greninja,Water,Dark,False,658
-#659 - Bunnelby,#659,Bunnelby,Normal,,False,659
-#660 - Diggersby,#660,Diggersby,Normal,Ground,False,660
-#661 - Fletchling,#661,Fletchling,Normal,Flying,False,661
-#662 - Fletchinder,#662,Fletchinder,Fire,Flying,False,662
-#663 - Talonflame,#663,Talonflame,Fire,Flying,False,663
-#664 - Scatterbug,#664,Scatterbug,Bug,,False,664
-#665 - Spewpa,#665,Spewpa,Bug,,False,665
-#666 - Vivillon,#666,Vivillon,Bug,Flying,False,666
-#667 - Litleo,#667,Litleo,Fire,Normal,False,667
-#668 - Pyroar,#668,Pyroar,Fire,Normal,True,668
-#669 - Flabébé,#669,Flabébé,Fairy,,False,669
-#670 - Floette,#670,Floette,Fairy,,False,670
-#671 - Florges,#671,Florges,Fairy,,False,671
-#672 - Skiddo,#672,Skiddo,Grass,,False,672
-#673 - Gogoat,#673,Gogoat,Grass,,False,673
-#674 - Pancham,#674,Pancham,Fighting,,False,674
-#675 - Pangoro,#675,Pangoro,Fighting,Dark,False,675
-#676 - Furfrou,#676,Furfrou,Normal,,False,676
-#677 - Espurr,#677,Espurr,Psychic,,False,677
-#678 - Meowstic,#678,Meowstic,Psychic,,True,678
-#679 - Honedge,#679,Honedge,Steel,Ghost,False,679
-#680 - Doublade,#680,Doublade,Steel,Ghost,False,680
-#681 - Aegislash,#681,Aegislash,Steel,Ghost,False,681
-#682 - Spritzee,#682,Spritzee,Fairy,,False,682
-#683 - Aromatisse,#683,Aromatisse,Fairy,,False,683
-#684 - Swirlix,#684,Swirlix,Fairy,,False,684
-#685 - Slurpuff,#685,Slurpuff,Fairy,,False,685
-#686 - Inkay,#686,Inkay,Dark,Psychic,False,686
-#687 - Malamar,#687,Malamar,Dark,Psychic,False,687
-#688 - Binacle,#688,Binacle,Rock,Water,False,688
-#689 - Barbaracle,#689,Barbaracle,Rock,Water,False,689
-#690 - Skrelp,#690,Skrelp,Poison,Water,False,690
-#691 - Dragalge,#691,Dragalge,Poison,Dragon,False,691
-#692 - Clauncher,#692,Clauncher,Water,,False,692
-#693 - Clawitzer,#693,Clawitzer,Water,,False,693
-#694 - Helioptile,#694,Helioptile,Electric,Normal,False,694
-#695 - Heliolisk,#695,Heliolisk,Electric,Normal,False,695
-#696 - Tyrunt,#696,Tyrunt,Rock,Dragon,False,696
-#697 - Tyrantrum,#697,Tyrantrum,Rock,Dragon,False,697
-#698 - Amaura,#698,Amaura,Rock,Ice,False,698
-#699 - Aurorus,#699,Aurorus,Rock,Ice,False,699
-#700 - Sylveon,#700,Sylveon,Fairy,,False,700
-#701 - Hawlucha,#701,Hawlucha,Fighting,Flying,False,701
-#702 - Dedenne,#702,Dedenne,Electric,Fairy,False,702
-#703 - Carbink,#703,Carbink,Rock,Fairy,False,703
-#704 - Goomy,#704,Goomy,Dragon,,False,704
-#705 - Sliggoo,#705,Sliggoo,Dragon,,False,705
-#706 - Goodra,#706,Goodra,Dragon,,False,706
-#707 - Klefki,#707,Klefki,Steel,Fairy,False,707
-#708 - Phantump,#708,Phantump,Ghost,Grass,False,708
-#709 - Trevenant,#709,Trevenant,Ghost,Grass,False,709
-#710 - Pumpkaboo,#710,Pumpkaboo,Ghost,Grass,False,710
-#711 - Gourgeist,#711,Gourgeist,Ghost,Grass,False,711
-#712 - Bergmite,#712,Bergmite,Ice,,False,712
-#713 - Avalugg,#713,Avalugg,Ice,,False,713
-#714 - Noibat,#714,Noibat,Flying,Dragon,False,714
-#715 - Noivern,#715,Noivern,Flying,Dragon,False,715
-#716 - Xerneas,#716,Xerneas,Fairy,,False,716
-#717 - Yveltal,#717,Yveltal,Dark,Flying,False,717
-#718 - Zygarde,#718,Zygarde,Dragon,Ground,False,718
-#719 - Diancie,#719,Diancie,Rock,Fairy,False,719
-#720 - Hoopa (Confined),#720,Hoopa (Confined),Psychic,Ghost,False,720-confined
-#720 - Hoopa (Unbound),#720,Hoopa (Unbound),Psychic,Dark,False,720-unbound
-#721 - Volcanion,#721,Volcanion,Fire,Water,False,721
-#722 - Rowlet,#722,Rowlet,Grass,Flying,False,722
-#723 - Dartrix,#723,Dartrix,Grass,Flying,False,723
-#724 - Decidueye,#724,Decidueye,Grass,Ghost,False,724
-#725 - Litten,#725,Litten,Fire,,False,725
-#726 - Torracat,#726,Torracat,Fire,,False,726
-#727 - Incineroar,#727,Incineroar,Fire,Dark,False,727
-#728 - Popplio,#728,Popplio,Water,,False,728
-#729 - Brionne,#729,Brionne,Water,,False,729
-#730 - Primarina,#730,Primarina,Water,Fairy,False,730
-#731 - Pikipek,#731,Pikipek,Normal,Flying,False,731
-#732 - Trumbeak,#732,Trumbeak,Normal,Flying,False,732
-#733 - Toucannon,#733,Toucannon,Normal,Flying,False,733
-#734 - Yungoos,#734,Yungoos,Normal,,False,734
-#735 - Gumshoos,#735,Gumshoos,Normal,,False,735
-#736 - Grubbin,#736,Grubbin,Bug,,False,736
-#737 - Charjabug,#737,Charjabug,Bug,Electric,False,737
-#738 - Vikavolt,#738,Vikavolt,Bug,Electric,False,738
-#739 - Crabrawler,#739,Crabrawler,Fighting,,False,739
-#740 - Crabominable,#740,Crabominable,Fighting,Ice,False,740
-#741 - Oricorio (Red),#741,Oricorio (Red),Fire,Flying,False,741-red
-#741 - Oricorio (Yellow),#741,Oricorio (Yellow),Electric,Flying,False,741-yellow
-#741 - Oricorio (Pink),#741,Oricorio (Pink),Psychic,Flying,False,741-pink
-#741 - Oricorio (Purple),#741,Oricorio (Purple),Ghost,Flying,False,741-purple
-#742 - Cutiefly,#742,Cutiefly,Bug,Fairy,False,742
-#743 - Ribombee,#743,Ribombee,Bug,Fairy,False,743
-#744 - Rockruff,#744,Rockruff,Rock,,False,744
-#745 - Lycanroc,#745,Lycanroc,Rock,,False,745
-#746 - Wishiwashi,#746,Wishiwashi,Water,,False,746
-#747 - Mareanie,#747,Mareanie,Poison,Water,False,747
-#748 - Toxapex,#748,Toxapex,Poison,Water,False,748
-#749 - Mudbray,#749,Mudbray,Ground,,False,749
-#750 - Mudsdale,#750,Mudsdale,Ground,,False,750
-#751 - Dewpider,#751,Dewpider,Water,Bug,False,751
-#752 - Araquanid,#752,Araquanid,Water,Bug,False,752
-#753 - Fomantis,#753,Fomantis,Grass,,False,753
-#754 - Lurantis,#754,Lurantis,Grass,,False,754
-#755 - Morelull,#755,Morelull,Grass,Fairy,False,755
-#756 - Shiinotic,#756,Shiinotic,Grass,Fairy,False,756
-#757 - Salandit,#757,Salandit,Poison,Fire,False,757
-#758 - Salazzle,#758,Salazzle,Poison,Fire,False,758
-#759 - Stufful,#759,Stufful,Normal,Fighting,False,759
-#760 - Bewear,#760,Bewear,Normal,Fighting,False,760
-#761 - Bounsweet,#761,Bounsweet,Grass,,False,761
-#762 - Steenee,#762,Steenee,Grass,,False,762
-#763 - Tsareena,#763,Tsareena,Grass,,False,763
-#764 - Comfey,#764,Comfey,Fairy,,False,764
-#765 - Oranguru,#765,Oranguru,Normal,Psychic,False,765
-#766 - Passimian,#766,Passimian,Fighting,,False,766
-#767 - Wimpod,#767,Wimpod,Bug,Water,False,767
-#768 - Golisopod,#768,Golisopod,Bug,Water,False,768
-#769 - Sandygast,#769,Sandygast,Ghost,Ground,False,769
-#770 - Palossand,#770,Palossand,Ghost,Ground,False,770
-#771 - Pyukumuku,#771,Pyukumuku,Water,,False,771
-#772 - Type: Null,#772,Type: Null,Normal,,False,772
-#773 - Silvally,#773,Silvally,Normal,,False,773
-#774 - Minior,#774,Minior,Rock,Flying,False,774
-#775 - Komala,#775,Komala,Normal,,False,775
-#776 - Turtonator,#776,Turtonator,Fire,Dragon,False,776
-#777 - Togedemaru,#777,Togedemaru,Electric,Steel,False,777
-#778 - Mimikyu,#778,Mimikyu,Ghost,Fairy,False,778
-#779 - Bruxish,#779,Bruxish,Water,Psychic,False,779
-#780 - Drampa,#780,Drampa,Normal,Dragon,False,780
-#781 - Dhelmise,#781,Dhelmise,Ghost,Grass,False,781
-#782 - Jangmo-o,#782,Jangmo-o,Dragon,,False,782
-#783 - Hakamo-o,#783,Hakamo-o,Dragon,Fighting,False,783
-#784 - Kommo-o,#784,Kommo-o,Dragon,Fighting,False,784
-#785 - Tapu Koko,#785,Tapu Koko,Electric,Fairy,False,785
-#786 - Tapu Lele,#786,Tapu Lele,Psychic,Fairy,False,786
-#787 - Tapu Bulu,#787,Tapu Bulu,Grass,Fairy,False,787
-#788 - Tapu Fini,#788,Tapu Fini,Water,Fairy,False,788
-#789 - Cosmog,#789,Cosmog,Psychic,,False,789
-#790 - Cosmoem,#790,Cosmoem,Psychic,,False,790
-#791 - Solgaleo,#791,Solgaleo,Psychic,Steel,False,791
-#792 - Lunala,#792,Lunala,Psychic,Ghost,False,792
-#793 - Nihilego,#793,Nihilego,Rock,Poison,False,793
-#794 - Buzzwole,#794,Buzzwole,Bug,Fighting,False,794
-#795 - Pheromosa,#795,Pheromosa,Bug,Fighting,False,795
-#796 - Xurkitree,#796,Xurkitree,Electric,,False,796
-#797 - Celesteela,#797,Celesteela,Steel,Flying,False,797
-#798 - Kartana,#798,Kartana,Grass,Steel,False,798
-#799 - Guzzlord,#799,Guzzlord,Dark,Dragon,False,799
-#800 - Necrozma,#800,Necrozma,Psychic,,False,800
-#801 - Magearna,#801,Magearna,Steel,Fairy,False,801
-#802 - Marshadow,#802,Marshadow,Fighting,Ghost,False,802
-#803 - Poipole,#803,Poipole,Poison,,False,803
-#804 - Naganadel,#804,Naganadel,Poison,Dragon,False,804
-#805 - Stakataka,#805,Stakataka,Rock,Steel,False,805
-#806 - Blacephalon,#806,Blacephalon,Fire,Ghost,False,806
-#807 - Zeraora,#807,Zeraora,Electric,,False,807
-#808 - Meltan,#808,Meltan,Steel,,False,808
-#809 - Melmetal,#809,Melmetal,Steel,,False,809
-#810 - Grookey,#810,Grookey,Grass,,False,810
-#811 - Thwackey,#811,Thwackey,Grass,,False,811
-#812 - Rillaboom,#812,Rillaboom,Grass,,False,812
-#813 - Scorbunny,#813,Scorbunny,Fire,,False,813
-#814 - Raboot,#814,Raboot,Fire,,False,814
-#815 - Cinderace,#815,Cinderace,Fire,,False,815
-#816 - Sobble,#816,Sobble,Water,,False,816
-#817 - Drizzile,#817,Drizzile,Water,,False,817
-#818 - Inteleon,#818,Inteleon,Water,,False,818
-#819 - Skwovet,#819,Skwovet,Normal,,False,819
-#820 - Greedent,#820,Greedent,Normal,,False,820
-#821 - Rookidee,#821,Rookidee,Flying,,False,821
-#822 - Corvisquire,#822,Corvisquire,Flying,,False,822
-#823 - Corviknight,#823,Corviknight,Flying,Steel,False,823
-#824 - Blipbug,#824,Blipbug,Bug,,False,824
-#825 - Dottler,#825,Dottler,Bug,Psychic,False,825
-#826 - Orbeetle,#826,Orbeetle,Bug,Psychic,False,826
-#827 - Nickit,#827,Nickit,Dark,,False,827
-#828 - Thievul,#828,Thievul,Dark,,False,828
-#829 - Gossifleur,#829,Gossifleur,Grass,,False,829
-#830 - Eldegoss,#830,Eldegoss,Grass,,False,830
-#831 - Wooloo,#831,Wooloo,Normal,,False,831
-#832 - Dubwool,#832,Dubwool,Normal,,False,832
-#833 - Chewtle,#833,Chewtle,Water,,False,833
-#834 - Drednaw,#834,Drednaw,Water,Rock,False,834
-#835 - Yamper,#835,Yamper,Electric,,False,835
-#836 - Boltund,#836,Boltund,Electric,,False,836
-#837 - Rolycoly,#837,Rolycoly,Rock,,False,837
-#838 - Carkol,#838,Carkol,Rock,Fire,False,838
-#839 - Coalossal,#839,Coalossal,Rock,Fire,False,839
-#840 - Applin,#840,Applin,Grass,Dragon,False,840
-#841 - Flapple,#841,Flapple,Grass,Dragon,False,841
-#842 - Appletun,#842,Appletun,Grass,Dragon,False,842
-#843 - Silicobra,#843,Silicobra,Ground,,False,843
-#844 - Sandaconda,#844,Sandaconda,Ground,,False,844
-#845 - Cramorant,#845,Cramorant,Flying,Water,False,845
-#846 - Arrokuda,#846,Arrokuda,Water,,False,846
-#847 - Barraskewda,#847,Barraskewda,Water,,False,847
-#848 - Toxel,#848,Toxel,Electric,Poison,False,848
-#849 - Toxtricity,#849,Toxtricity,Electric,Poison,False,849
-#850 - Sizzlipede,#850,Sizzlipede,Fire,Bug,False,850
-#851 - Centiskorch,#851,Centiskorch,Fire,Bug,False,851
-#852 - Clobbopus,#852,Clobbopus,Fighting,,False,852
-#853 - Grapploct,#853,Grapploct,Fighting,,False,853
-#854 - Sinistea,#854,Sinistea,Ghost,,False,854
-#855 - Polteageist,#855,Polteageist,Ghost,,False,855
-#856 - Hatenna,#856,Hatenna,Psychic,,False,856
-#857 - Hattrem,#857,Hattrem,Psychic,,False,857
-#858 - Hatterene,#858,Hatterene,Psychic,Fairy,False,858
-#859 - Impidimp,#859,Impidimp,Dark,Fairy,False,859
-#860 - Morgrem,#860,Morgrem,Dark,Fairy,False,860
-#861 - Grimmsnarl,#861,Grimmsnarl,Dark,Fairy,False,861
-#862 - Obstagoon,#862,Obstagoon,Dark,Normal,False,862
-#863 - Perrserker,#863,Perrserker,Steel,,False,863
-#864 - Cursola,#864,Cursola,Ghost,,False,864
-#865 - Sirfetch'd,#865,Sirfetch'd,Fighting,,False,865
-#866 - Mr. Rime,#866,Mr. Rime,Ice,Psychic,False,866
-#867 - Runerigus,#867,Runerigus,Ground,Ghost,False,867
-#868 - Milcery,#868,Milcery,Fairy,,False,868
-#869 - Alcremie,#869,Alcremie,Fairy,,False,869
-#870 - Falinks,#870,Falinks,Fighting,,False,870
-#871 - Pincurchin,#871,Pincurchin,Electric,,False,871
-#872 - Snom,#872,Snom,Ice,Bug,False,872
-#873 - Frosmoth,#873,Frosmoth,Ice,Bug,False,873
-#874 - Stonjourner,#874,Stonjourner,Rock,,False,874
-#875 - Eiscue,#875,Eiscue,Ice,,False,875
-#876 - Indeedee,#876,Indeedee,Psychic,Normal,True,876
-#877 - Morpeko,#877,Morpeko,Electric,Dark,False,877
-#878 - Cufant,#878,Cufant,Steel,,False,878
-#879 - Copperajah,#879,Copperajah,Steel,,False,879
-#880 - Dracozolt,#880,Dracozolt,Electric,Dragon,False,880
-#881 - Arctozolt,#881,Arctozolt,Electric,Ice,False,881
-#882 - Dracovish,#882,Dracovish,Water,Dragon,False,882
-#883 - Arctovish,#883,Arctovish,Water,Ice,False,883
-#884 - Duraludon,#884,Duraludon,Steel,Dragon,False,884
-#885 - Dreepy,#885,Dreepy,Dragon,Ghost,False,885
-#886 - Drakloak,#886,Drakloak,Dragon,Ghost,False,886
-#887 - Dragapult,#887,Dragapult,Dragon,Ghost,False,887
-#888 - Zacian,#888,Zacian,Fairy,,False,888
-#888 - Zacian (Crowned Sword),#888,Zacian (Crowned Sword),Fairy,Steel,False,888-cs
-#889 - Zamazenta,#889,Zamazenta,Fighting,,False,889
-#889 - Zamazenta (Crowned Shield),#889,Zamazenta (Crowned Shield),Fighting,Steel,False,889-cs
-#890 - Eternatus,#890,Eternatus,Poison,Dragon,False,890
-#891 - Kubfu,#891,Kubfu,Fighting,,False,891
-#892 - Urshifu (Single Strike Style),#892,Urshifu (Single Strike Style),Fighting,Dark,False,892-sss
-#892 - Urshifu (Rapid Strike Style),#892,Urshifu (Rapid Strike Style),Fighting,Water,False,892-rss
-#893 - Zarude,#893,Zarude,Dark,Grass,False,893
-#894 - Regieleki,#894,Regieleki,Electric,,False,894
-#895 - Regidrago,#895,Regidrago,Dragon,,False,895
-#896 - Glastrier,#896,Glastrier,Ice,,False,896
-#897 - Spectrier,#897,Spectrier,Ghost,,False,897
-#898 - Calyrex,#898,Calyrex,Psychic,Grass,False,898
-#898 - Calyrex (Ice Rider),#898,Calyrex (Ice Rider),Psychic,Ice,False,898-ice
-#898 - Calyrex (Shadow Rider),#898,Calyrex (Shadow Rider),Psychic,Ghost,False,898-shadow
+#000 - Blank,#000,Blank,,,0,0
+#001 - Bulbasaur,#001,Bulbasaur,Grass,Poison,0,1
+#002 - Ivysaur,#002,Ivysaur,Grass,Poison,0,2
+#003 - Venusaur,#003,Venusaur,Grass,Poison,1,3
+#004 - Charmander,#004,Charmander,Fire,,0,4
+#005 - Charmeleon,#005,Charmeleon,Fire,,0,5
+#006 - Charizard,#006,Charizard,Fire,Flying,0,6
+#007 - Squirtle,#007,Squirtle,Water,,0,7
+#008 - Wartortle,#008,Wartortle,Water,,0,8
+#009 - Blastoise,#009,Blastoise,Water,,0,9
+#010 - Caterpie,#010,Caterpie,Bug,,0,10
+#011 - Metapod,#011,Metapod,Bug,,0,11
+#012 - Butterfree,#012,Butterfree,Bug,Flying,1,12
+#013 - Weedle,#013,Weedle,Bug,Poison,0,13
+#014 - Kakuna,#014,Kakuna,Bug,Poison,0,14
+#015 - Beedrill,#015,Beedrill,Bug,Poison,0,15
+#016 - Pidgey,#016,Pidgey,Normal,Flying,0,16
+#017 - Pidgeotto,#017,Pidgeotto,Normal,Flying,0,17
+#018 - Pidgeot,#018,Pidgeot,Normal,Flying,0,18
+#019 - Rattata,#019,Rattata,Normal,,1,19
+#019 - Rattata (Alola),#019,Rattata (Alola),Dark,Normal,0,19-a
+#020 - Raticate,#020,Raticate,Normal,,1,20
+#020 - Raticate (Alola),#020,Raticate (Alola),Dark,Normal,0,20-a
+#021 - Spearow,#021,Spearow,Normal,Flying,0,21
+#022 - Fearow,#022,Fearow,Normal,Flying,0,22
+#023 - Ekans,#023,Ekans,Poison,,0,23
+#024 - Arbok,#024,Arbok,Poison,,0,24
+#025 - Pikachu,#025,Pikachu,Electric,,1,25
+#026 - Raichu,#026,Raichu,Electric,,1,26
+#026 - Raichu (Alola),#026,Raichu (Alola),Electric,Psychic,0,26-a
+#027 - Sandshrew,#027,Sandshrew,Ground,,0,27
+#027 - Sandshrew (Alola),#027,Sandshrew (Alola),Ice,Steel,0,27-a
+#028 - Sandslash,#028,Sandslash,Ground,,0,28
+#028 - Sandslash (Alola),#028,Sandslash (Alola),Ice,Steel,0,28-a
+#029 - Nidoran♀,#029,Nidoran♀,Poison,,0,29
+#030 - Nidorina,#030,Nidorina,Poison,,0,30
+#031 - Nidoqueen,#031,Nidoqueen,Poison,Ground,0,31
+#032 - Nidoran♂,#032,Nidoran♂,Poison,,0,32
+#033 - Nidorino,#033,Nidorino,Poison,,0,33
+#034 - Nidoking,#034,Nidoking,Poison,Ground,0,34
+#035 - Clefairy,#035,Clefairy,Fairy,,0,35
+#036 - Clefable,#036,Clefable,Fairy,,0,36
+#037 - Vulpix,#037,Vulpix,Fire,,0,37
+#037 - Vulpix (Alola),#037,Vulpix (Alola),Ice,,0,37-a
+#038 - Ninetales,#038,Ninetales,Fire,,0,38
+#038 - Ninetales (Alola),#038,Ninetales (Alola),Ice,Fairy,0,38-a
+#039 - Jigglypuff,#039,Jigglypuff,Normal,Fairy,0,39
+#040 - Wigglytuff,#040,Wigglytuff,Normal,Fairy,0,40
+#041 - Zubat,#041,Zubat,Poison,Flying,1,41
+#042 - Golbat,#042,Golbat,Poison,Flying,1,42
+#043 - Oddish,#043,Oddish,Grass,Poison,0,43
+#044 - Gloom,#044,Gloom,Grass,Poison,1,44
+#045 - Vileplume,#045,Vileplume,Grass,Poison,1,45
+#046 - Paras,#046,Paras,Bug,Grass,0,46
+#047 - Parasect,#047,Parasect,Bug,Grass,0,47
+#048 - Venonat,#048,Venonat,Bug,Poison,0,48
+#049 - Venomoth,#049,Venomoth,Bug,Poison,0,49
+#050 - Diglett,#050,Diglett,Ground,,0,50
+#050 - Diglett (Alola),#050,Diglett (Alola),Ground,Steel,0,50-a
+#051 - Dugtrio,#051,Dugtrio,Ground,,0,51
+#051 - Dugtrio (Alola),#051,Dugtrio (Alola),Ground,Steel,0,51-a
+#052 - Meowth,#052,Meowth,Normal,,0,52
+#052 - Meowth (Alola),#052,Meowth (Alola),Dark,,0,52-a
+#052 - Meowth (Galar),#052,Meowth (Galar),Steel,,0,52-g
+#053 - Persian,#053,Persian,Normal,,0,53
+#053 - Persian (Alola),#053,Persian (Alola),Dark,,0,53-a
+#054 - Psyduck,#054,Psyduck,Water,,0,54
+#055 - Golduck,#055,Golduck,Water,,0,55
+#056 - Mankey,#056,Mankey,Fighting,,0,56
+#057 - Primeape,#057,Primeape,Fighting,,0,57
+#058 - Growlithe,#058,Growlithe,Fire,,0,58
+#058 - Growlithe (Hisui),#058,Growlithe (Hisui),Fire,Rock,0,58-h
+#059 - Arcanine,#059,Arcanine,Fire,,0,59
+#059 - Arcanine (Hisui),#059,Arcanine (Hisui),Fire,Rock,0,59-h
+#060 - Poliwag,#060,Poliwag,Water,,0,60
+#061 - Poliwhirl,#061,Poliwhirl,Water,,0,61
+#062 - Poliwrath,#062,Poliwrath,Water,Fighting,0,62
+#063 - Abra,#063,Abra,Psychic,,0,63
+#064 - Kadabra,#064,Kadabra,Psychic,,1,64
+#065 - Alakazam,#065,Alakazam,Psychic,,1,65
+#066 - Machop,#066,Machop,Fighting,,0,66
+#067 - Machoke,#067,Machoke,Fighting,,0,67
+#068 - Machamp,#068,Machamp,Fighting,,0,68
+#069 - Bellsprout,#069,Bellsprout,Grass,Poison,0,69
+#070 - Weepinbell,#070,Weepinbell,Grass,Poison,0,70
+#071 - Victreebel,#071,Victreebel,Grass,Poison,0,71
+#072 - Tentacool,#072,Tentacool,Water,Poison,0,72
+#073 - Tentacruel,#073,Tentacruel,Water,Poison,0,73
+#074 - Geodude,#074,Geodude,Rock,Ground,0,74
+#074 - Geodude (Alola),#074,Geodude (Alola),Rock,Electric,0,74-a
+#075 - Graveler,#075,Graveler,Rock,Ground,0,75
+#075 - Graveler (Alola),#075,Graveler (Alola),Rock,Electric,0,75-a
+#076 - Golem,#076,Golem,Rock,Ground,0,76
+#076 - Golem (Alola),#076,Golem (Alola),Rock,Electric,0,76-a
+#077 - Ponyta,#077,Ponyta,Fire,,0,77
+#077 - Ponyta (Galar),#077,Ponyta (Galar),Psychic,,0,77-g
+#078 - Rapidash,#078,Rapidash,Fire,,0,78
+#078 - Rapidash (Galar),#078,Rapidash (Galar),Psychic,Fairy,0,78-g
+#079 - Slowpoke,#079,Slowpoke,Water,Psychic,0,79
+#079 - Slowpoke (Galar),#079,Slowpoke (Galar),Psychic,,0,79-g
+#080 - Slowbro,#080,Slowbro,Water,Psychic,0,80
+#080 - Slowbro (Galar),#080,Slowbro (Galar),Poison,Psychic,0,80-g
+#081 - Magnemite,#081,Magnemite,Electric,Steel,0,81
+#082 - Magneton,#082,Magneton,Electric,Steel,0,82
+#083 - Farfetch'd,#083,Farfetch'd,Normal,Flying,0,83
+#083 - Farfetch'd (Galar),#083,Farfetch'd (Galar),Fighting,,0,83-g
+#084 - Doduo,#084,Doduo,Normal,Flying,1,84
+#085 - Dodrio,#085,Dodrio,Normal,Flying,1,85
+#086 - Seel,#086,Seel,Water,,0,86
+#087 - Dewgong,#087,Dewgong,Water,Ice,0,87
+#088 - Grimer,#088,Grimer,Poison,,0,88
+#088 - Grimer (Alola),#088,Grimer (Alola),Poison,Dark,0,88-a
+#089 - Muk,#089,Muk,Poison,,0,89
+#089 - Muk (Alola),#089,Muk (Alola),Poison,Dark,0,89-a
+#090 - Shellder,#090,Shellder,Water,,0,90
+#091 - Cloyster,#091,Cloyster,Water,Ice,0,91
+#092 - Gastly,#092,Gastly,Ghost,Poison,0,92
+#093 - Haunter,#093,Haunter,Ghost,Poison,0,93
+#094 - Gengar,#094,Gengar,Ghost,Poison,0,94
+#095 - Onix,#095,Onix,Rock,Ground,0,95
+#096 - Drowzee,#096,Drowzee,Psychic,,0,96
+#097 - Hypno,#097,Hypno,Psychic,,1,97
+#098 - Krabby,#098,Krabby,Water,,0,98
+#099 - Kingler,#099,Kingler,Water,,0,99
+#100 - Voltorb,#100,Voltorb,Electric,,0,100
+#100 - Voltorb (Hisui),#100,Voltorb (Hisui),Electric,Grass,0,100-h
+#101 - Electrode,#101,Electrode,Electric,,0,101
+#101 - Electrode (Hisui),#101,Electrode (Hisui),Electric,Grass,0,101-h
+#102 - Exeggcute,#102,Exeggcute,Grass,Psychic,0,102
+#103 - Exeggutor,#103,Exeggutor,Grass,Psychic,0,103
+#103 - Exeggutor (Alola),#103,Exeggutor (Alola),Grass,Dragon,0,103-a
+#104 - Cubone,#104,Cubone,Ground,,0,104
+#105 - Marowak,#105,Marowak,Ground,,0,105
+#105 - Marowak (Alola),#105,Marowak (Alola),Fire,Ghost,0,105-a
+#106 - Hitmonlee,#106,Hitmonlee,Fighting,,0,106
+#107 - Hitmonchan,#107,Hitmonchan,Fighting,,0,107
+#108 - Lickitung,#108,Lickitung,Normal,,0,108
+#109 - Koffing,#109,Koffing,Poison,,0,109
+#110 - Weezing,#110,Weezing,Poison,,0,110
+#110 - Weezing (Galar),#110,Weezing (Galar),Poison,Fairy,0,110-g
+#111 - Rhyhorn,#111,Rhyhorn,Ground,Rock,1,111
+#112 - Rhydon,#112,Rhydon,Ground,Rock,1,112
+#113 - Chansey,#113,Chansey,Normal,,0,113
+#114 - Tangela,#114,Tangela,Grass,,0,114
+#115 - Kangaskhan,#115,Kangaskhan,Normal,,0,115
+#116 - Horsea,#116,Horsea,Water,,1,116
+#117 - Seadra,#117,Seadra,Water,,1,117
+#118 - Goldeen,#118,Goldeen,Water,,0,118
+#119 - Seaking,#119,Seaking,Water,,0,119
+#120 - Staryu,#120,Staryu,Water,,0,120
+#121 - Starmie,#121,Starmie,Water,Psychic,0,121
+#122 - Mr. Mime,#122,Mr. Mime,Psychic,Fairy,0,122
+#122 - Mr. Mime (Galar),#122,Mr. Mime (Galar),Ice,Psychic,0,122-g
+#123 - Scyther,#123,Scyther,Bug,Flying,1,123
+#124 - Jynx,#124,Jynx,Ice,Psychic,0,124
+#125 - Electabuzz,#125,Electabuzz,Electric,,0,125
+#126 - Magmar,#126,Magmar,Fire,,0,126
+#127 - Pinsir,#127,Pinsir,Bug,,0,127
+#128 - Tauros,#128,Tauros,Normal,,0,128
+#129 - Magikarp,#129,Magikarp,Water,,1,129
+#130 - Gyarados,#130,Gyarados,Water,Flying,1,130
+#131 - Lapras,#131,Lapras,Water,Ice,0,131
+#132 - Ditto,#132,Ditto,Normal,,0,132
+#133 - Eevee,#133,Eevee,Normal,,1,133
+#134 - Vaporeon,#134,Vaporeon,Water,,0,134
+#135 - Jolteon,#135,Jolteon,Electric,,0,135
+#136 - Flareon,#136,Flareon,Fire,,0,136
+#137 - Porygon,#137,Porygon,Normal,,0,137
+#138 - Omanyte,#138,Omanyte,Rock,Water,0,138
+#139 - Omastar,#139,Omastar,Rock,Water,0,139
+#140 - Kabuto,#140,Kabuto,Rock,Water,0,140
+#141 - Kabutops,#141,Kabutops,Rock,Water,0,141
+#142 - Aerodactyl,#142,Aerodactyl,Rock,Flying,0,142
+#143 - Snorlax,#143,Snorlax,Normal,,0,143
+#144 - Articuno,#144,Articuno,Ice,Flying,0,144
+#144 - Articuno (Galar),#144,Articuno (Galar),Psychic,Flying,0,144-g
+#145 - Zapdos,#145,Zapdos,Electric,Flying,0,145
+#145 - Zapdos (Galar),#145,Zapdos (Galar),Fighting,Flying,0,145-g
+#146 - Moltres,#146,Moltres,Fire,Flying,0,146
+#146 - Moltres (Galar),#146,Moltres (Galar),Dark,Flying,0,146-g
+#147 - Dratini,#147,Dratini,Dragon,,0,147
+#148 - Dragonair,#148,Dragonair,Dragon,,0,148
+#149 - Dragonite,#149,Dragonite,Dragon,Flying,0,149
+#150 - Mewtwo,#150,Mewtwo,Psychic,,0,150
+#151 - Mew,#151,Mew,Psychic,,0,151
+#152 - Chikorita,#152,Chikorita,Grass,,0,152
+#153 - Bayleef,#153,Bayleef,Grass,,0,153
+#154 - Meganium,#154,Meganium,Grass,,1,154
+#155 - Cyndaquil,#155,Cyndaquil,Fire,,0,155
+#156 - Quilava,#156,Quilava,Fire,,0,156
+#157 - Typhlosion,#157,Typhlosion,Fire,,0,157
+#157 - Typhlosion (Hisui),#157,Typhlosion (Hisui),Fire,Ghost,0,157-h
+#158 - Totodile,#158,Totodile,Water,,0,158
+#159 - Croconaw,#159,Croconaw,Water,,0,159
+#160 - Feraligatr,#160,Feraligatr,Water,,0,160
+#161 - Sentret,#161,Sentret,Normal,,0,161
+#162 - Furret,#162,Furret,Normal,,0,162
+#163 - Hoothoot,#163,Hoothoot,Normal,Flying,0,163
+#164 - Noctowl,#164,Noctowl,Normal,Flying,0,164
+#165 - Ledyba,#165,Ledyba,Bug,Flying,1,165
+#166 - Ledian,#166,Ledian,Bug,Flying,1,166
+#167 - Spinarak,#167,Spinarak,Bug,Poison,0,167
+#168 - Ariados,#168,Ariados,Bug,Poison,0,168
+#169 - Crobat,#169,Crobat,Poison,Flying,0,169
+#170 - Chinchou,#170,Chinchou,Water,Electric,0,170
+#171 - Lanturn,#171,Lanturn,Water,Electric,0,171
+#172 - Pichu,#172,Pichu,Electric,,0,172
+#173 - Cleffa,#173,Cleffa,Fairy,,0,173
+#174 - Igglybuff,#174,Igglybuff,Normal,Fairy,0,174
+#175 - Togepi,#175,Togepi,Fairy,,0,175
+#176 - Togetic,#176,Togetic,Fairy,Flying,0,176
+#177 - Natu,#177,Natu,Psychic,Flying,0,177
+#178 - Xatu,#178,Xatu,Psychic,Flying,1,178
+#179 - Mareep,#179,Mareep,Electric,,0,179
+#180 - Flaaffy,#180,Flaaffy,Electric,,0,180
+#181 - Ampharos,#181,Ampharos,Electric,,0,181
+#182 - Bellossom,#182,Bellossom,Grass,,0,182
+#183 - Marill,#183,Marill,Water,Fairy,0,183
+#184 - Azumarill,#184,Azumarill,Water,Fairy,0,184
+#185 - Sudowoodo,#185,Sudowoodo,Rock,,1,185
+#186 - Politoed,#186,Politoed,Water,,1,186
+#187 - Hoppip,#187,Hoppip,Grass,Flying,0,187
+#188 - Skiploom,#188,Skiploom,Grass,Flying,0,188
+#189 - Jumpluff,#189,Jumpluff,Grass,Flying,0,189
+#190 - Aipom,#190,Aipom,Normal,,1,190
+#191 - Sunkern,#191,Sunkern,Grass,,0,191
+#192 - Sunflora,#192,Sunflora,Grass,,0,192
+#193 - Yanma,#193,Yanma,Bug,Flying,0,193
+#194 - Wooper,#194,Wooper,Water,Ground,0,194
+#195 - Quagsire,#195,Quagsire,Water,Ground,1,195
+#196 - Espeon,#196,Espeon,Psychic,,0,196
+#197 - Umbreon,#197,Umbreon,Dark,,0,197
+#198 - Murkrow,#198,Murkrow,Dark,Flying,1,198
+#199 - Slowking,#199,Slowking,Water,Psychic,0,199
+#199 - Slowking (Galar),#199,Slowking (Galar),Poison,Psychic,0,199-g
+#200 - Misdreavus,#200,Misdreavus,Ghost,,0,200
+#201 - Unown,#201,Unown,Psychic,,0,201
+#202 - Wobbuffet,#202,Wobbuffet,Psychic,,1,202
+#203 - Girafarig,#203,Girafarig,Normal,Psychic,0,203
+#204 - Pineco,#204,Pineco,Bug,,0,204
+#205 - Forretress,#205,Forretress,Bug,Steel,0,205
+#206 - Dunsparce,#206,Dunsparce,Normal,,0,206
+#207 - Gligar,#207,Gligar,Ground,Flying,1,207
+#208 - Steelix,#208,Steelix,Steel,Ground,1,208
+#209 - Snubbull,#209,Snubbull,Fairy,,0,209
+#210 - Granbull,#210,Granbull,Fairy,,0,210
+#211 - Qwilfish,#211,Qwilfish,Water,Poison,0,211
+#211 - Qwilfish (Hisui),#211,Qwilfish (Hisui),Dark,Poison,0,211-h
+#212 - Scizor,#212,Scizor,Bug,Steel,1,212
+#213 - Shuckle,#213,Shuckle,Bug,Rock,0,213
+#214 - Heracross,#214,Heracross,Bug,Fighting,1,214
+#215 - Sneasel,#215,Sneasel,Dark,Ice,1,215
+#215 - Sneasel (Hisui),#215,Sneasel (Hisui),Poison,Fighting,1,215-h
+#216 - Teddiursa,#216,Teddiursa,Normal,,0,216
+#217 - Ursaring,#217,Ursaring,Normal,,1,217
+#218 - Slugma,#218,Slugma,Fire,,0,218
+#219 - Magcargo,#219,Magcargo,Fire,Rock,0,219
+#220 - Swinub,#220,Swinub,Ice,Ground,0,220
+#221 - Piloswine,#221,Piloswine,Ice,Ground,1,221
+#222 - Corsola,#222,Corsola,Water,Rock,0,222
+#222 - Corsola (Galar),#222,Corsola (Galar),Ghost,,0,222-g
+#223 - Remoraid,#223,Remoraid,Water,,0,223
+#224 - Octillery,#224,Octillery,Water,,1,224
+#225 - Delibird,#225,Delibird,Ice,Flying,0,225
+#226 - Mantine,#226,Mantine,Water,Flying,0,226
+#227 - Skarmory,#227,Skarmory,Steel,Flying,0,227
+#228 - Houndour,#228,Houndour,Dark,Fire,0,228
+#229 - Houndoom,#229,Houndoom,Dark,Fire,1,229
+#230 - Kingdra,#230,Kingdra,Water,Dragon,0,230
+#231 - Phanpy,#231,Phanpy,Ground,,0,231
+#232 - Donphan,#232,Donphan,Ground,,1,232
+#233 - Porygon2,#233,Porygon2,Normal,,0,233
+#234 - Stantler,#234,Stantler,Normal,,0,234
+#235 - Smeargle,#235,Smeargle,Normal,,0,235
+#236 - Tyrogue,#236,Tyrogue,Fighting,,0,236
+#237 - Hitmontop,#237,Hitmontop,Fighting,,0,237
+#238 - Smoochum,#238,Smoochum,Ice,Psychic,0,238
+#239 - Elekid,#239,Elekid,Electric,,0,239
+#240 - Magby,#240,Magby,Fire,,0,240
+#241 - Miltank,#241,Miltank,Normal,,0,241
+#242 - Blissey,#242,Blissey,Normal,,0,242
+#243 - Raikou,#243,Raikou,Electric,,0,243
+#244 - Entei,#244,Entei,Fire,,0,244
+#245 - Suicune,#245,Suicune,Water,,0,245
+#246 - Larvitar,#246,Larvitar,Rock,Ground,0,246
+#247 - Pupitar,#247,Pupitar,Rock,Ground,0,247
+#248 - Tyranitar,#248,Tyranitar,Rock,Dark,0,248
+#249 - Lugia,#249,Lugia,Psychic,Flying,0,249
+#250 - Ho-Oh,#250,Ho-Oh,Fire,Flying,0,250
+#251 - Celebi,#251,Celebi,Psychic,Grass,0,251
+#252 - Treecko,#252,Treecko,Grass,,0,252
+#253 - Grovyle,#253,Grovyle,Grass,,0,253
+#254 - Sceptile,#254,Sceptile,Grass,,0,254
+#255 - Torchic,#255,Torchic,Fire,,0,255
+#256 - Combusken,#256,Combusken,Fire,Fighting,1,256
+#257 - Blaziken,#257,Blaziken,Fire,Fighting,1,257
+#258 - Mudkip,#258,Mudkip,Water,,0,258
+#259 - Marshtomp,#259,Marshtomp,Water,Ground,0,259
+#260 - Swampert,#260,Swampert,Water,Ground,0,260
+#261 - Poochyena,#261,Poochyena,Dark,,0,261
+#262 - Mightyena,#262,Mightyena,Dark,,0,262
+#263 - Zigzagoon,#263,Zigzagoon,Normal,,0,263
+#263 - Zigzagoon (Galar),#263,Zigzagoon (Galar),Dark,Normal,0,263-g
+#264 - Linoone,#264,Linoone,Normal,,0,264
+#264 - Linoone (Galar),#264,Linoone (Galar),Dark,Normal,0,264-g
+#265 - Wurmple,#265,Wurmple,Bug,,0,265
+#266 - Silcoon,#266,Silcoon,Bug,,0,266
+#267 - Beautifly,#267,Beautifly,Bug,Flying,1,267
+#268 - Cascoon,#268,Cascoon,Bug,,0,268
+#269 - Dustox,#269,Dustox,Bug,Poison,1,269
+#270 - Lotad,#270,Lotad,Water,Grass,0,270
+#271 - Lombre,#271,Lombre,Water,Grass,0,271
+#272 - Ludicolo,#272,Ludicolo,Water,Grass,1,272
+#273 - Seedot,#273,Seedot,Grass,,0,273
+#274 - Nuzleaf,#274,Nuzleaf,Grass,Dark,1,274
+#275 - Shiftry,#275,Shiftry,Grass,Dark,1,275
+#276 - Taillow,#276,Taillow,Normal,Flying,0,276
+#277 - Swellow,#277,Swellow,Normal,Flying,0,277
+#278 - Wingull,#278,Wingull,Water,Flying,0,278
+#279 - Pelipper,#279,Pelipper,Water,Flying,0,279
+#280 - Ralts,#280,Ralts,Psychic,Fairy,0,280
+#281 - Kirlia,#281,Kirlia,Psychic,Fairy,0,281
+#282 - Gardevoir,#282,Gardevoir,Psychic,Fairy,0,282
+#283 - Surskit,#283,Surskit,Bug,Water,0,283
+#284 - Masquerain,#284,Masquerain,Bug,Flying,0,284
+#285 - Shroomish,#285,Shroomish,Grass,,0,285
+#286 - Breloom,#286,Breloom,Grass,Fighting,0,286
+#287 - Slakoth,#287,Slakoth,Normal,,0,287
+#288 - Vigoroth,#288,Vigoroth,Normal,,0,288
+#289 - Slaking,#289,Slaking,Normal,,0,289
+#290 - Nincada,#290,Nincada,Bug,Ground,0,290
+#291 - Ninjask,#291,Ninjask,Bug,Flying,0,291
+#292 - Shedinja,#292,Shedinja,Bug,Ghost,0,292
+#293 - Whismur,#293,Whismur,Normal,,0,293
+#294 - Loudred,#294,Loudred,Normal,,0,294
+#295 - Exploud,#295,Exploud,Normal,,0,295
+#296 - Makuhita,#296,Makuhita,Fighting,,0,296
+#297 - Hariyama,#297,Hariyama,Fighting,,0,297
+#298 - Azurill,#298,Azurill,Normal,Fairy,0,298
+#299 - Nosepass,#299,Nosepass,Rock,,0,299
+#300 - Skitty,#300,Skitty,Normal,,0,300
+#301 - Delcatty,#301,Delcatty,Normal,,0,301
+#302 - Sableye,#302,Sableye,Dark,Ghost,0,302
+#303 - Mawile,#303,Mawile,Steel,Fairy,0,303
+#304 - Aron,#304,Aron,Steel,Rock,0,304
+#305 - Lairon,#305,Lairon,Steel,Rock,0,305
+#306 - Aggron,#306,Aggron,Steel,Rock,0,306
+#307 - Meditite,#307,Meditite,Fighting,Psychic,1,307
+#308 - Medicham,#308,Medicham,Fighting,Psychic,1,308
+#309 - Electrike,#309,Electrike,Electric,,0,309
+#310 - Manectric,#310,Manectric,Electric,,0,310
+#311 - Plusle,#311,Plusle,Electric,,0,311
+#312 - Minun,#312,Minun,Electric,,0,312
+#313 - Volbeat,#313,Volbeat,Bug,,0,313
+#314 - Illumise,#314,Illumise,Bug,,0,314
+#315 - Roselia,#315,Roselia,Grass,Poison,1,315
+#316 - Gulpin,#316,Gulpin,Poison,,1,316
+#317 - Swalot,#317,Swalot,Poison,,1,317
+#318 - Carvanha,#318,Carvanha,Water,Dark,0,318
+#319 - Sharpedo,#319,Sharpedo,Water,Dark,0,319
+#320 - Wailmer,#320,Wailmer,Water,,0,320
+#321 - Wailord,#321,Wailord,Water,,0,321
+#322 - Numel,#322,Numel,Fire,Ground,1,322
+#323 - Camerupt,#323,Camerupt,Fire,Ground,1,323
+#324 - Torkoal,#324,Torkoal,Fire,,0,324
+#325 - Spoink,#325,Spoink,Psychic,,0,325
+#326 - Grumpig,#326,Grumpig,Psychic,,0,326
+#327 - Spinda,#327,Spinda,Normal,,0,327
+#328 - Trapinch,#328,Trapinch,Ground,,0,328
+#329 - Vibrava,#329,Vibrava,Ground,Dragon,0,329
+#330 - Flygon,#330,Flygon,Ground,Dragon,0,330
+#331 - Cacnea,#331,Cacnea,Grass,,0,331
+#332 - Cacturne,#332,Cacturne,Grass,Dark,1,332
+#333 - Swablu,#333,Swablu,Normal,Flying,0,333
+#334 - Altaria,#334,Altaria,Dragon,Flying,0,334
+#335 - Zangoose,#335,Zangoose,Normal,,0,335
+#336 - Seviper,#336,Seviper,Poison,,0,336
+#337 - Lunatone,#337,Lunatone,Rock,Psychic,0,337
+#338 - Solrock,#338,Solrock,Rock,Psychic,0,338
+#339 - Barboach,#339,Barboach,Water,Ground,0,339
+#340 - Whiscash,#340,Whiscash,Water,Ground,0,340
+#341 - Corphish,#341,Corphish,Water,,0,341
+#342 - Crawdaunt,#342,Crawdaunt,Water,Dark,0,342
+#343 - Baltoy,#343,Baltoy,Ground,Psychic,0,343
+#344 - Claydol,#344,Claydol,Ground,Psychic,0,344
+#345 - Lileep,#345,Lileep,Rock,Grass,0,345
+#346 - Cradily,#346,Cradily,Rock,Grass,0,346
+#347 - Anorith,#347,Anorith,Rock,Bug,0,347
+#348 - Armaldo,#348,Armaldo,Rock,Bug,0,348
+#349 - Feebas,#349,Feebas,Water,,0,349
+#350 - Milotic,#350,Milotic,Water,,1,350
+#351 - Castform (normal),#351,Castform (normal),Normal,,0,351
+#351 - Castform (fire),#351,Castform (fire),Fire,,0,351-fire
+#351 - Castform (water),#351,Castform (water),Water,,0,351-water
+#351 - Castform (ice),#351,Castform (ice),Ice,,0,351-ice
+#352 - Kecleon,#352,Kecleon,Normal,,0,352
+#353 - Shuppet,#353,Shuppet,Ghost,,0,353
+#354 - Banette,#354,Banette,Ghost,,0,354
+#355 - Duskull,#355,Duskull,Ghost,,0,355
+#356 - Dusclops,#356,Dusclops,Ghost,,0,356
+#357 - Tropius,#357,Tropius,Grass,Flying,0,357
+#358 - Chimecho,#358,Chimecho,Psychic,,0,358
+#359 - Absol,#359,Absol,Dark,,0,359
+#360 - Wynaut,#360,Wynaut,Psychic,,0,360
+#361 - Snorunt,#361,Snorunt,Ice,,0,361
+#362 - Glalie,#362,Glalie,Ice,,0,362
+#363 - Spheal,#363,Spheal,Ice,Water,0,363
+#364 - Sealeo,#364,Sealeo,Ice,Water,0,364
+#365 - Walrein,#365,Walrein,Ice,Water,0,365
+#366 - Clamperl,#366,Clamperl,Water,,0,366
+#367 - Huntail,#367,Huntail,Water,,0,367
+#368 - Gorebyss,#368,Gorebyss,Water,,0,368
+#369 - Relicanth,#369,Relicanth,Water,Rock,1,369
+#370 - Luvdisc,#370,Luvdisc,Water,,0,370
+#371 - Bagon,#371,Bagon,Dragon,,0,371
+#372 - Shelgon,#372,Shelgon,Dragon,,0,372
+#373 - Salamence,#373,Salamence,Dragon,Flying,0,373
+#374 - Beldum,#374,Beldum,Steel,Psychic,0,374
+#375 - Metang,#375,Metang,Steel,Psychic,0,375
+#376 - Metagross,#376,Metagross,Steel,Psychic,0,376
+#377 - Regirock,#377,Regirock,Rock,,0,377
+#378 - Regice,#378,Regice,Ice,,0,378
+#379 - Registeel,#379,Registeel,Steel,,0,379
+#380 - Latias,#380,Latias,Dragon,Psychic,0,380
+#381 - Latios,#381,Latios,Dragon,Psychic,0,381
+#382 - Kyogre,#382,Kyogre,Water,,0,382
+#383 - Groudon,#383,Groudon,Ground,,0,383
+#384 - Rayquaza,#384,Rayquaza,Dragon,Flying,0,384
+#385 - Jirachi,#385,Jirachi,Steel,Psychic,0,385
+#386 - Deoxys (Normal),#386,Deoxys (Normal),Psychic,,0,386
+#386 - Deoxys (Attack),#386,Deoxys (Attack),Psychic,,0,386-attack
+#386 - Deoxys (Defense),#386,Deoxys (Defense),Psychic,,0,386-defense
+#386 - Deoxys (Speed),#386,Deoxys (Speed),Psychic,,0,386-speed
+#387 - Turtwig,#387,Turtwig,Grass,,0,387
+#388 - Grotle,#388,Grotle,Grass,,0,388
+#389 - Torterra,#389,Torterra,Grass,Ground,0,389
+#390 - Chimchar,#390,Chimchar,Fire,,0,390
+#391 - Monferno,#391,Monferno,Fire,Fighting,0,391
+#392 - Infernape,#392,Infernape,Fire,Fighting,0,392
+#393 - Piplup,#393,Piplup,Water,,0,393
+#394 - Prinplup,#394,Prinplup,Water,,0,394
+#395 - Empoleon,#395,Empoleon,Water,Steel,0,395
+#396 - Starly,#396,Starly,Normal,Flying,1,396
+#397 - Staravia,#397,Staravia,Normal,Flying,1,397
+#398 - Staraptor,#398,Staraptor,Normal,Flying,1,398
+#399 - Bidoof,#399,Bidoof,Normal,,1,399
+#400 - Bibarel,#400,Bibarel,Normal,Water,1,400
+#401 - Kricketot,#401,Kricketot,Bug,,1,401
+#402 - Kricketune,#402,Kricketune,Bug,,1,402
+#403 - Shinx,#403,Shinx,Electric,,1,403
+#404 - Luxio,#404,Luxio,Electric,,1,404
+#405 - Luxray,#405,Luxray,Electric,,1,405
+#406 - Budew,#406,Budew,Grass,Poison,0,406
+#407 - Roserade,#407,Roserade,Grass,Poison,1,407
+#408 - Cranidos,#408,Cranidos,Rock,,0,408
+#409 - Rampardos,#409,Rampardos,Rock,,0,409
+#410 - Shieldon,#410,Shieldon,Rock,Steel,0,410
+#411 - Bastiodon,#411,Bastiodon,Rock,Steel,0,411
+#412 - Burmy (Plant),#412,Burmy (Plant),Bug,,0,412-plant
+#412 - Burmy (Sandy),#412,Burmy (Sandy),Bug,,0,412-sandy
+#412 - Burmy (Trash),#412,Burmy (Trash),Bug,,0,412-trash
+#413 - Wormadam (Plant),#413,Wormadam (Plant),Bug,Grass,0,413-plant
+#413 - Wormadam (Sandy),#413,Wormadam (Sandy),Bug,Ground,0,413-sandy
+#413 - Wormadam (Trash),#413,Wormadam (Trash),Bug,Steel,0,413-trash
+#414 - Mothim,#414,Mothim,Bug,Flying,0,414
+#415 - Combee,#415,Combee,Bug,Flying,1,415
+#416 - Vespiquen,#416,Vespiquen,Bug,Flying,0,416
+#417 - Pachirisu,#417,Pachirisu,Electric,,1,417
+#418 - Buizel,#418,Buizel,Water,,1,418
+#419 - Floatzel,#419,Floatzel,Water,,1,419
+#420 - Cherubi,#420,Cherubi,Grass,,0,420
+#421 - Cherrim,#421,Cherrim,Grass,,0,421
+#422 - Shellos (West),#422,Shellos (West),Water,,0,422-west
+#422 - Shellos (East),#422,Shellos (East),Water,,0,422-east
+#423 - Gastrodon (West),#423,Gastrodon (West),Water,Ground,0,423-west
+#423 - Gastrodon (East),#423,Gastrodon (East),Water,Ground,0,423-east
+#424 - Ambipom,#424,Ambipom,Normal,,1,424
+#425 - Drifloon,#425,Drifloon,Ghost,Flying,0,425
+#426 - Drifblim,#426,Drifblim,Ghost,Flying,0,426
+#427 - Buneary,#427,Buneary,Normal,,0,427
+#428 - Lopunny,#428,Lopunny,Normal,,0,428
+#429 - Mismagius,#429,Mismagius,Ghost,,0,429
+#430 - Honchkrow,#430,Honchkrow,Dark,Flying,0,430
+#431 - Glameow,#431,Glameow,Normal,,0,431
+#432 - Purugly,#432,Purugly,Normal,,0,432
+#433 - Chingling,#433,Chingling,Psychic,,0,433
+#434 - Stunky,#434,Stunky,Poison,Dark,0,434
+#435 - Skuntank,#435,Skuntank,Poison,Dark,0,435
+#436 - Bronzor,#436,Bronzor,Steel,Psychic,0,436
+#437 - Bronzong,#437,Bronzong,Steel,Psychic,0,437
+#438 - Bonsly,#438,Bonsly,Rock,,0,438
+#439 - Mime Jr.,#439,Mime Jr.,Psychic,Fairy,0,439
+#440 - Happiny,#440,Happiny,Normal,,0,440
+#441 - Chatot,#441,Chatot,Normal,Flying,0,441
+#442 - Spiritomb,#442,Spiritomb,Ghost,Dark,0,442
+#443 - Gible,#443,Gible,Dragon,Ground,1,443
+#444 - Gabite,#444,Gabite,Dragon,Ground,1,444
+#445 - Garchomp,#445,Garchomp,Dragon,Ground,1,445
+#446 - Munchlax,#446,Munchlax,Normal,,0,446
+#447 - Riolu,#447,Riolu,Fighting,,0,447
+#448 - Lucario,#448,Lucario,Fighting,Steel,0,448
+#449 - Hippopotas,#449,Hippopotas,Ground,,1,449
+#450 - Hippowdon,#450,Hippowdon,Ground,,1,450
+#451 - Skorupi,#451,Skorupi,Poison,Bug,0,451
+#452 - Drapion,#452,Drapion,Poison,Dark,0,452
+#453 - Croagunk,#453,Croagunk,Poison,Fighting,1,453
+#454 - Toxicroak,#454,Toxicroak,Poison,Fighting,1,454
+#455 - Carnivine,#455,Carnivine,Grass,,0,455
+#456 - Finneon,#456,Finneon,Water,,1,456
+#457 - Lumineon,#457,Lumineon,Water,,1,457
+#458 - Mantyke,#458,Mantyke,Water,Flying,0,458
+#459 - Snover,#459,Snover,Grass,Ice,1,459
+#460 - Abomasnow,#460,Abomasnow,Grass,Ice,1,460
+#461 - Weavile,#461,Weavile,Dark,Ice,1,461
+#462 - Magnezone,#462,Magnezone,Electric,Steel,0,462
+#463 - Lickilicky,#463,Lickilicky,Normal,,0,463
+#464 - Rhyperior,#464,Rhyperior,Ground,Rock,1,464
+#465 - Tangrowth,#465,Tangrowth,Grass,,1,465
+#466 - Electivire,#466,Electivire,Electric,,0,466
+#467 - Magmortar,#467,Magmortar,Fire,,0,467
+#468 - Togekiss,#468,Togekiss,Fairy,Flying,0,468
+#469 - Yanmega,#469,Yanmega,Bug,Flying,0,469
+#470 - Leafeon,#470,Leafeon,Grass,,0,470
+#471 - Glaceon,#471,Glaceon,Ice,,0,471
+#472 - Gliscor,#472,Gliscor,Ground,Flying,0,472
+#473 - Mamoswine,#473,Mamoswine,Ice,Ground,1,473
+#474 - Porygon-Z,#474,Porygon-Z,Normal,,0,474
+#475 - Gallade,#475,Gallade,Psychic,Fighting,0,475
+#476 - Probopass,#476,Probopass,Rock,Steel,0,476
+#477 - Dusknoir,#477,Dusknoir,Ghost,,0,477
+#478 - Froslass,#478,Froslass,Ice,Ghost,0,478
+#479 - Rotom,#479,Rotom,Electric,Ghost,0,479
+#479 - Rotom (Heat),#479,Rotom (Heat),Electric,Fire,0,479-heat
+#479 - Rotom (Wash),#479,Rotom (Wash),Electric,Water,0,479-wash
+#479 - Rotom (Frost),#479,Rotom (Frost),Electric,Ice,0,479-frost
+#479 - Rotom (Fan),#479,Rotom (Fan),Electric,Flying,0,479-fan
+#479 - Rotom (Mow),#479,Rotom (Mow),Electric,Grass,0,479-mow
+#480 - Uxie,#480,Uxie,Psychic,,0,480
+#481 - Mesprit,#481,Mesprit,Psychic,,0,481
+#482 - Azelf,#482,Azelf,Psychic,,0,482
+#483 - Dialga,#483,Dialga,Steel,Dragon,0,483
+#483 - Dialga (Origin),#483,Dialga (Origin),Steel,Dragon,0,483-origin
+#484 - Palkia,#484,Palkia,Water,Dragon,0,484
+#484 - Palkia (Origin),#484,Palkia (Origin),Water,Dragon,0,484-origin
+#485 - Heatran,#485,Heatran,Fire,Steel,0,485
+#486 - Regigigas,#486,Regigigas,Normal,,0,486
+#487 - Giratina (Altered),#487,Giratina (Altered),Ghost,Dragon,0,487-altered
+#487 - Giratina (Original),#487,Giratina (Original),Ghost,Dragon,0,487-original
+#488 - Cresselia,#488,Cresselia,Psychic,,0,488
+#489 - Phione,#489,Phione,Water,,0,489
+#490 - Manaphy,#490,Manaphy,Water,,0,490
+#491 - Darkrai,#491,Darkrai,Dark,,0,491
+#492 - Shaymin (Land),#492,Shaymin (Land),Grass,,0,492-land
+#492 - Shaymin (Sky),#492,Shaymin (Sky),Grass,Flying,0,492-sky
+#493 - Arceus,#493,Arceus,Normal,,0,493
+#494 - Victini,#494,Victini,Psychic,Fire,0,494
+#495 - Snivy,#495,Snivy,Grass,,0,495
+#496 - Servine,#496,Servine,Grass,,0,496
+#497 - Serperior,#497,Serperior,Grass,,0,497
+#498 - Tepig,#498,Tepig,Fire,,0,498
+#499 - Pignite,#499,Pignite,Fire,Fighting,0,499
+#500 - Emboar,#500,Emboar,Fire,Fighting,0,500
+#501 - Oshawott,#501,Oshawott,Water,,0,501
+#502 - Dewott,#502,Dewott,Water,,0,502
+#503 - Samurott,#503,Samurott,Water,,0,503
+#503 - Samurott (Hisui),#503,Samurott (Hisui),Water,Dark,0,503-h
+#504 - Patrat,#504,Patrat,Normal,,0,504
+#505 - Watchog,#505,Watchog,Normal,,0,505
+#506 - Lillipup,#506,Lillipup,Normal,,0,506
+#507 - Herdier,#507,Herdier,Normal,,0,507
+#508 - Stoutland,#508,Stoutland,Normal,,0,508
+#509 - Purrloin,#509,Purrloin,Dark,,0,509
+#510 - Liepard,#510,Liepard,Dark,,0,510
+#511 - Pansage,#511,Pansage,Grass,,0,511
+#512 - Simisage,#512,Simisage,Grass,,0,512
+#513 - Pansear,#513,Pansear,Fire,,0,513
+#514 - Simisear,#514,Simisear,Fire,,0,514
+#515 - Panpour,#515,Panpour,Water,,0,515
+#516 - Simipour,#516,Simipour,Water,,0,516
+#517 - Munna,#517,Munna,Psychic,,0,517
+#518 - Musharna,#518,Musharna,Psychic,,0,518
+#519 - Pidove,#519,Pidove,Normal,Flying,0,519
+#520 - Tranquill,#520,Tranquill,Normal,Flying,0,520
+#521 - Unfezant,#521,Unfezant,Normal,Flying,1,521
+#522 - Blitzle,#522,Blitzle,Electric,,0,522
+#523 - Zebstrika,#523,Zebstrika,Electric,,0,523
+#524 - Roggenrola,#524,Roggenrola,Rock,,0,524
+#525 - Boldore,#525,Boldore,Rock,,0,525
+#526 - Gigalith,#526,Gigalith,Rock,,0,526
+#527 - Woobat,#527,Woobat,Psychic,Flying,0,527
+#528 - Swoobat,#528,Swoobat,Psychic,Flying,0,528
+#529 - Drilbur,#529,Drilbur,Ground,,0,529
+#530 - Excadrill,#530,Excadrill,Ground,Steel,0,530
+#531 - Audino,#531,Audino,Normal,,0,531
+#532 - Timburr,#532,Timburr,Fighting,,0,532
+#533 - Gurdurr,#533,Gurdurr,Fighting,,0,533
+#534 - Conkeldurr,#534,Conkeldurr,Fighting,,0,534
+#535 - Tympole,#535,Tympole,Water,,0,535
+#536 - Palpitoad,#536,Palpitoad,Water,Ground,0,536
+#537 - Seismitoad,#537,Seismitoad,Water,Ground,0,537
+#538 - Throh,#538,Throh,Fighting,,0,538
+#539 - Sawk,#539,Sawk,Fighting,,0,539
+#540 - Sewaddle,#540,Sewaddle,Bug,Grass,0,540
+#541 - Swadloon,#541,Swadloon,Bug,Grass,0,541
+#542 - Leavanny,#542,Leavanny,Bug,Grass,0,542
+#543 - Venipede,#543,Venipede,Bug,Poison,0,543
+#544 - Whirlipede,#544,Whirlipede,Bug,Poison,0,544
+#545 - Scolipede,#545,Scolipede,Bug,Poison,0,545
+#546 - Cottonee,#546,Cottonee,Grass,Fairy,0,546
+#547 - Whimsicott,#547,Whimsicott,Grass,Fairy,0,547
+#548 - Petilil,#548,Petilil,Grass,,0,548
+#549 - Lilligant,#549,Lilligant,Grass,,0,549
+#549 - Lilligant (Hisui),#549,Lilligant (Hisui),Grass,,0,549-h
+#550 - Basculin (Blue),#550,Basculin (Blue),Water,,0,550-blue
+#550 - Basculin (Red),#550,Basculin (Red),Water,,0,550-red
+#550 - Basculin (White),#550,Basculin (White),Water,,0,550-white
+#551 - Sandile,#551,Sandile,Ground,Dark,0,551
+#552 - Krokorok,#552,Krokorok,Ground,Dark,0,552
+#553 - Krookodile,#553,Krookodile,Ground,Dark,0,553
+#554 - Darumaka,#554,Darumaka,Fire,,0,554
+#554 - Darumaka (Galar),#554,Darumaka (Galar),Ice,,0,554-g
+#555 - Darmanitan,#555,Darmanitan,Fire,,0,555
+#555 - Darmanitan (Galar),#555,Darmanitan (Galar),Ice,,0,555-g
+#556 - Maractus,#556,Maractus,Grass,,0,556
+#557 - Dwebble,#557,Dwebble,Bug,Rock,0,557
+#558 - Crustle,#558,Crustle,Bug,Rock,0,558
+#559 - Scraggy,#559,Scraggy,Dark,Fighting,0,559
+#560 - Scrafty,#560,Scrafty,Dark,Fighting,0,560
+#561 - Sigilyph,#561,Sigilyph,Psychic,Flying,0,561
+#562 - Yamask,#562,Yamask,Ghost,,0,562
+#562 - Yamask (Galar),#562,Yamask (Galar),Ground,Ghost,0,562-g
+#563 - Cofagrigus,#563,Cofagrigus,Ghost,,0,563
+#564 - Tirtouga,#564,Tirtouga,Water,Rock,0,564
+#565 - Carracosta,#565,Carracosta,Water,Rock,0,565
+#566 - Archen,#566,Archen,Rock,Flying,0,566
+#567 - Archeops,#567,Archeops,Rock,Flying,0,567
+#568 - Trubbish,#568,Trubbish,Poison,,0,568
+#569 - Garbodor,#569,Garbodor,Poison,,0,569
+#570 - Zorua,#570,Zorua,Dark,,0,570
+#570 - Zorua (Hisui),#570,Zorua (Hisui),Normal,Ghost,0,570-h
+#571 - Zoroark,#571,Zoroark,Dark,,0,571
+#571 - Zoroark (Hisui),#571,Zoroark (Hisui),Normal,Ghost,0,571-h
+#572 - Minccino,#572,Minccino,Normal,,0,572
+#573 - Cinccino,#573,Cinccino,Normal,,0,573
+#574 - Gothita,#574,Gothita,Psychic,,0,574
+#575 - Gothorita,#575,Gothorita,Psychic,,0,575
+#576 - Gothitelle,#576,Gothitelle,Psychic,,0,576
+#577 - Solosis,#577,Solosis,Psychic,,0,577
+#578 - Duosion,#578,Duosion,Psychic,,0,578
+#579 - Reuniclus,#579,Reuniclus,Psychic,,0,579
+#580 - Ducklett,#580,Ducklett,Water,Flying,0,580
+#581 - Swanna,#581,Swanna,Water,Flying,0,581
+#582 - Vanillite,#582,Vanillite,Ice,,0,582
+#583 - Vanillish,#583,Vanillish,Ice,,0,583
+#584 - Vanilluxe,#584,Vanilluxe,Ice,,0,584
+#585 - Deerling,#585,Deerling,Normal,Grass,0,585
+#586 - Sawsbuck,#586,Sawsbuck,Normal,Grass,0,586
+#587 - Emolga,#587,Emolga,Electric,Flying,0,587
+#588 - Karrablast,#588,Karrablast,Bug,,0,588
+#589 - Escavalier,#589,Escavalier,Bug,Steel,0,589
+#590 - Foongus,#590,Foongus,Grass,Poison,0,590
+#591 - Amoonguss,#591,Amoonguss,Grass,Poison,0,591
+#592 - Frillish,#592,Frillish,Water,Ghost,1,592
+#593 - Jellicent,#593,Jellicent,Water,Ghost,1,593
+#594 - Alomomola,#594,Alomomola,Water,,0,594
+#595 - Joltik,#595,Joltik,Bug,Electric,0,595
+#596 - Galvantula,#596,Galvantula,Bug,Electric,0,596
+#597 - Ferroseed,#597,Ferroseed,Grass,Steel,0,597
+#598 - Ferrothorn,#598,Ferrothorn,Grass,Steel,0,598
+#599 - Klink,#599,Klink,Steel,,0,599
+#600 - Klang,#600,Klang,Steel,,0,600
+#601 - Klinklang,#601,Klinklang,Steel,,0,601
+#602 - Tynamo,#602,Tynamo,Electric,,0,602
+#603 - Eelektrik,#603,Eelektrik,Electric,,0,603
+#604 - Eelektross,#604,Eelektross,Electric,,0,604
+#605 - Elgyem,#605,Elgyem,Psychic,,0,605
+#606 - Beheeyem,#606,Beheeyem,Psychic,,0,606
+#607 - Litwick,#607,Litwick,Ghost,Fire,0,607
+#608 - Lampent,#608,Lampent,Ghost,Fire,0,608
+#609 - Chandelure,#609,Chandelure,Ghost,Fire,0,609
+#610 - Axew,#610,Axew,Dragon,,0,610
+#611 - Fraxure,#611,Fraxure,Dragon,,0,611
+#612 - Haxorus,#612,Haxorus,Dragon,,0,612
+#613 - Cubchoo,#613,Cubchoo,Ice,,0,613
+#614 - Beartic,#614,Beartic,Ice,,0,614
+#615 - Cryogonal,#615,Cryogonal,Ice,,0,615
+#616 - Shelmet,#616,Shelmet,Bug,,0,616
+#617 - Accelgor,#617,Accelgor,Bug,,0,617
+#618 - Stunfisk,#618,Stunfisk,Ground,Electric,0,618
+#618 - Stunfisk (Galar),#618,Stunfisk (Galar),Ground,Steel,0,618-g
+#619 - Mienfoo,#619,Mienfoo,Fighting,,0,619
+#620 - Mienshao,#620,Mienshao,Fighting,,0,620
+#621 - Druddigon,#621,Druddigon,Dragon,,0,621
+#622 - Golett,#622,Golett,Ground,Ghost,0,622
+#623 - Golurk,#623,Golurk,Ground,Ghost,0,623
+#624 - Pawniard,#624,Pawniard,Dark,Steel,0,624
+#625 - Bisharp,#625,Bisharp,Dark,Steel,0,625
+#626 - Bouffalant,#626,Bouffalant,Normal,,0,626
+#627 - Rufflet,#627,Rufflet,Normal,Flying,0,627
+#628 - Braviary,#628,Braviary,Normal,Flying,0,628
+#628 - Braviary (Hisui),#628,Braviary (Hisui),Psychic,Flying,0,628-h
+#629 - Vullaby,#629,Vullaby,Dark,Flying,0,629
+#630 - Mandibuzz,#630,Mandibuzz,Dark,Flying,0,630
+#631 - Heatmor,#631,Heatmor,Fire,,0,631
+#632 - Durant,#632,Durant,Bug,Steel,0,632
+#633 - Deino,#633,Deino,Dark,Dragon,0,633
+#634 - Zweilous,#634,Zweilous,Dark,Dragon,0,634
+#635 - Hydreigon,#635,Hydreigon,Dark,Dragon,0,635
+#636 - Larvesta,#636,Larvesta,Bug,Fire,0,636
+#637 - Volcarona,#637,Volcarona,Bug,Fire,0,637
+#638 - Cobalion,#638,Cobalion,Steel,Fighting,0,638
+#639 - Terrakion,#639,Terrakion,Rock,Fighting,0,639
+#640 - Virizion,#640,Virizion,Grass,Fighting,0,640
+#641 - Tornadus,#641,Tornadus,Flying,,0,641
+#642 - Thundurus,#642,Thundurus,Electric,Flying,0,642
+#643 - Reshiram,#643,Reshiram,Dragon,Fire,0,643
+#644 - Zekrom,#644,Zekrom,Dragon,Electric,0,644
+#645 - Landorus,#645,Landorus,Ground,Flying,0,645
+#646 - Kyurem,#646,Kyurem,Dragon,Ice,0,646
+#647 - Keldeo,#647,Keldeo,Water,Fighting,0,647
+#648 - Meloetta (Aria),#648,Meloetta (Aria),Normal,Psychic,0,648-aria
+#648 - Meloetta (Pirouette),#648,Meloetta (Pirouette),Normal,Fighting,0,648-pirouette
+#649 - Genesect,#649,Genesect,Bug,Steel,0,649
+#650 - Chespin,#650,Chespin,Grass,,0,650
+#651 - Quilladin,#651,Quilladin,Grass,,0,651
+#652 - Chesnaught,#652,Chesnaught,Grass,Fighting,0,652
+#653 - Fennekin,#653,Fennekin,Fire,,0,653
+#654 - Braixen,#654,Braixen,Fire,,0,654
+#655 - Delphox,#655,Delphox,Fire,Psychic,0,655
+#656 - Froakie,#656,Froakie,Water,,0,656
+#657 - Frogadier,#657,Frogadier,Water,,0,657
+#658 - Greninja,#658,Greninja,Water,Dark,0,658
+#659 - Bunnelby,#659,Bunnelby,Normal,,0,659
+#660 - Diggersby,#660,Diggersby,Normal,Ground,0,660
+#661 - Fletchling,#661,Fletchling,Normal,Flying,0,661
+#662 - Fletchinder,#662,Fletchinder,Fire,Flying,0,662
+#663 - Talonflame,#663,Talonflame,Fire,Flying,0,663
+#664 - Scatterbug,#664,Scatterbug,Bug,,0,664
+#665 - Spewpa,#665,Spewpa,Bug,,0,665
+#666 - Vivillon,#666,Vivillon,Bug,Flying,0,666
+#667 - Litleo,#667,Litleo,Fire,Normal,0,667
+#668 - Pyroar,#668,Pyroar,Fire,Normal,1,668
+#669 - Flabébé,#669,Flabébé,Fairy,,0,669
+#670 - Floette,#670,Floette,Fairy,,0,670
+#671 - Florges,#671,Florges,Fairy,,0,671
+#672 - Skiddo,#672,Skiddo,Grass,,0,672
+#673 - Gogoat,#673,Gogoat,Grass,,0,673
+#674 - Pancham,#674,Pancham,Fighting,,0,674
+#675 - Pangoro,#675,Pangoro,Fighting,Dark,0,675
+#676 - Furfrou,#676,Furfrou,Normal,,0,676
+#677 - Espurr,#677,Espurr,Psychic,,0,677
+#678 - Meowstic,#678,Meowstic,Psychic,,1,678
+#679 - Honedge,#679,Honedge,Steel,Ghost,0,679
+#680 - Doublade,#680,Doublade,Steel,Ghost,0,680
+#681 - Aegislash,#681,Aegislash,Steel,Ghost,0,681
+#682 - Spritzee,#682,Spritzee,Fairy,,0,682
+#683 - Aromatisse,#683,Aromatisse,Fairy,,0,683
+#684 - Swirlix,#684,Swirlix,Fairy,,0,684
+#685 - Slurpuff,#685,Slurpuff,Fairy,,0,685
+#686 - Inkay,#686,Inkay,Dark,Psychic,0,686
+#687 - Malamar,#687,Malamar,Dark,Psychic,0,687
+#688 - Binacle,#688,Binacle,Rock,Water,0,688
+#689 - Barbaracle,#689,Barbaracle,Rock,Water,0,689
+#690 - Skrelp,#690,Skrelp,Poison,Water,0,690
+#691 - Dragalge,#691,Dragalge,Poison,Dragon,0,691
+#692 - Clauncher,#692,Clauncher,Water,,0,692
+#693 - Clawitzer,#693,Clawitzer,Water,,0,693
+#694 - Helioptile,#694,Helioptile,Electric,Normal,0,694
+#695 - Heliolisk,#695,Heliolisk,Electric,Normal,0,695
+#696 - Tyrunt,#696,Tyrunt,Rock,Dragon,0,696
+#697 - Tyrantrum,#697,Tyrantrum,Rock,Dragon,0,697
+#698 - Amaura,#698,Amaura,Rock,Ice,0,698
+#699 - Aurorus,#699,Aurorus,Rock,Ice,0,699
+#700 - Sylveon,#700,Sylveon,Fairy,,0,700
+#701 - Hawlucha,#701,Hawlucha,Fighting,Flying,0,701
+#702 - Dedenne,#702,Dedenne,Electric,Fairy,0,702
+#703 - Carbink,#703,Carbink,Rock,Fairy,0,703
+#704 - Goomy,#704,Goomy,Dragon,,0,704
+#705 - Sliggoo,#705,Sliggoo,Dragon,,0,705
+#705 - Sliggoo (Hisui),#705,Sliggoo (Hisui),Dragon,Steel,0,705-h
+#706 - Goodra,#706,Goodra,Dragon,,0,706
+#706 - Goodra (Hisui),#706,Goodra (Hisui),Dragon,Steel,0,706-h
+#707 - Klefki,#707,Klefki,Steel,Fairy,0,707
+#708 - Phantump,#708,Phantump,Ghost,Grass,0,708
+#709 - Trevenant,#709,Trevenant,Ghost,Grass,0,709
+#710 - Pumpkaboo,#710,Pumpkaboo,Ghost,Grass,0,710
+#711 - Gourgeist,#711,Gourgeist,Ghost,Grass,0,711
+#712 - Bergmite,#712,Bergmite,Ice,,0,712
+#713 - Avalugg,#713,Avalugg,Ice,,0,713
+#713 - Avalugg (Hisui),#713,Avalugg (Hisui),Ice,Rock,0,713-h
+#714 - Noibat,#714,Noibat,Flying,Dragon,0,714
+#715 - Noivern,#715,Noivern,Flying,Dragon,0,715
+#716 - Xerneas,#716,Xerneas,Fairy,,0,716
+#717 - Yveltal,#717,Yveltal,Dark,Flying,0,717
+#718 - Zygarde,#718,Zygarde,Dragon,Ground,0,718
+#719 - Diancie,#719,Diancie,Rock,Fairy,0,719
+#720 - Hoopa (Confined),#720,Hoopa (Confined),Psychic,Ghost,0,720-confined
+#720 - Hoopa (Unbound),#720,Hoopa (Unbound),Psychic,Dark,0,720-unbound
+#721 - Volcanion,#721,Volcanion,Fire,Water,0,721
+#722 - Rowlet,#722,Rowlet,Grass,Flying,0,722
+#723 - Dartrix,#723,Dartrix,Grass,Flying,0,723
+#724 - Decidueye,#724,Decidueye,Grass,Ghost,0,724
+#724 - Decidueye (Hisui),#724,Decidueye (Hisui),Grass,Fighting,0,724-h
+#725 - Litten,#725,Litten,Fire,,0,725
+#726 - Torracat,#726,Torracat,Fire,,0,726
+#727 - Incineroar,#727,Incineroar,Fire,Dark,0,727
+#728 - Popplio,#728,Popplio,Water,,0,728
+#729 - Brionne,#729,Brionne,Water,,0,729
+#730 - Primarina,#730,Primarina,Water,Fairy,0,730
+#731 - Pikipek,#731,Pikipek,Normal,Flying,0,731
+#732 - Trumbeak,#732,Trumbeak,Normal,Flying,0,732
+#733 - Toucannon,#733,Toucannon,Normal,Flying,0,733
+#734 - Yungoos,#734,Yungoos,Normal,,0,734
+#735 - Gumshoos,#735,Gumshoos,Normal,,0,735
+#736 - Grubbin,#736,Grubbin,Bug,,0,736
+#737 - Charjabug,#737,Charjabug,Bug,Electric,0,737
+#738 - Vikavolt,#738,Vikavolt,Bug,Electric,0,738
+#739 - Crabrawler,#739,Crabrawler,Fighting,,0,739
+#740 - Crabominable,#740,Crabominable,Fighting,Ice,0,740
+#741 - Oricorio (Red),#741,Oricorio (Red),Fire,Flying,0,741-red
+#741 - Oricorio (Yellow),#741,Oricorio (Yellow),Electric,Flying,0,741-yellow
+#741 - Oricorio (Pink),#741,Oricorio (Pink),Psychic,Flying,0,741-pink
+#741 - Oricorio (Purple),#741,Oricorio (Purple),Ghost,Flying,0,741-purple
+#742 - Cutiefly,#742,Cutiefly,Bug,Fairy,0,742
+#743 - Ribombee,#743,Ribombee,Bug,Fairy,0,743
+#744 - Rockruff,#744,Rockruff,Rock,,0,744
+#745 - Lycanroc,#745,Lycanroc,Rock,,0,745
+#746 - Wishiwashi,#746,Wishiwashi,Water,,0,746
+#747 - Mareanie,#747,Mareanie,Poison,Water,0,747
+#748 - Toxapex,#748,Toxapex,Poison,Water,0,748
+#749 - Mudbray,#749,Mudbray,Ground,,0,749
+#750 - Mudsdale,#750,Mudsdale,Ground,,0,750
+#751 - Dewpider,#751,Dewpider,Water,Bug,0,751
+#752 - Araquanid,#752,Araquanid,Water,Bug,0,752
+#753 - Fomantis,#753,Fomantis,Grass,,0,753
+#754 - Lurantis,#754,Lurantis,Grass,,0,754
+#755 - Morelull,#755,Morelull,Grass,Fairy,0,755
+#756 - Shiinotic,#756,Shiinotic,Grass,Fairy,0,756
+#757 - Salandit,#757,Salandit,Poison,Fire,0,757
+#758 - Salazzle,#758,Salazzle,Poison,Fire,0,758
+#759 - Stufful,#759,Stufful,Normal,Fighting,0,759
+#760 - Bewear,#760,Bewear,Normal,Fighting,0,760
+#761 - Bounsweet,#761,Bounsweet,Grass,,0,761
+#762 - Steenee,#762,Steenee,Grass,,0,762
+#763 - Tsareena,#763,Tsareena,Grass,,0,763
+#764 - Comfey,#764,Comfey,Fairy,,0,764
+#765 - Oranguru,#765,Oranguru,Normal,Psychic,0,765
+#766 - Passimian,#766,Passimian,Fighting,,0,766
+#767 - Wimpod,#767,Wimpod,Bug,Water,0,767
+#768 - Golisopod,#768,Golisopod,Bug,Water,0,768
+#769 - Sandygast,#769,Sandygast,Ghost,Ground,0,769
+#770 - Palossand,#770,Palossand,Ghost,Ground,0,770
+#771 - Pyukumuku,#771,Pyukumuku,Water,,0,771
+#772 - Type: Null,#772,Type: Null,Normal,,0,772
+#773 - Silvally,#773,Silvally,Normal,,0,773
+#774 - Minior,#774,Minior,Rock,Flying,0,774
+#775 - Komala,#775,Komala,Normal,,0,775
+#776 - Turtonator,#776,Turtonator,Fire,Dragon,0,776
+#777 - Togedemaru,#777,Togedemaru,Electric,Steel,0,777
+#778 - Mimikyu,#778,Mimikyu,Ghost,Fairy,0,778
+#779 - Bruxish,#779,Bruxish,Water,Psychic,0,779
+#780 - Drampa,#780,Drampa,Normal,Dragon,0,780
+#781 - Dhelmise,#781,Dhelmise,Ghost,Grass,0,781
+#782 - Jangmo-o,#782,Jangmo-o,Dragon,,0,782
+#783 - Hakamo-o,#783,Hakamo-o,Dragon,Fighting,0,783
+#784 - Kommo-o,#784,Kommo-o,Dragon,Fighting,0,784
+#785 - Tapu Koko,#785,Tapu Koko,Electric,Fairy,0,785
+#786 - Tapu Lele,#786,Tapu Lele,Psychic,Fairy,0,786
+#787 - Tapu Bulu,#787,Tapu Bulu,Grass,Fairy,0,787
+#788 - Tapu Fini,#788,Tapu Fini,Water,Fairy,0,788
+#789 - Cosmog,#789,Cosmog,Psychic,,0,789
+#790 - Cosmoem,#790,Cosmoem,Psychic,,0,790
+#791 - Solgaleo,#791,Solgaleo,Psychic,Steel,0,791
+#792 - Lunala,#792,Lunala,Psychic,Ghost,0,792
+#793 - Nihilego,#793,Nihilego,Rock,Poison,0,793
+#794 - Buzzwole,#794,Buzzwole,Bug,Fighting,0,794
+#795 - Pheromosa,#795,Pheromosa,Bug,Fighting,0,795
+#796 - Xurkitree,#796,Xurkitree,Electric,,0,796
+#797 - Celesteela,#797,Celesteela,Steel,Flying,0,797
+#798 - Kartana,#798,Kartana,Grass,Steel,0,798
+#799 - Guzzlord,#799,Guzzlord,Dark,Dragon,0,799
+#800 - Necrozma,#800,Necrozma,Psychic,,0,800
+#801 - Magearna,#801,Magearna,Steel,Fairy,0,801
+#802 - Marshadow,#802,Marshadow,Fighting,Ghost,0,802
+#803 - Poipole,#803,Poipole,Poison,,0,803
+#804 - Naganadel,#804,Naganadel,Poison,Dragon,0,804
+#805 - Stakataka,#805,Stakataka,Rock,Steel,0,805
+#806 - Blacephalon,#806,Blacephalon,Fire,Ghost,0,806
+#807 - Zeraora,#807,Zeraora,Electric,,0,807
+#808 - Meltan,#808,Meltan,Steel,,0,808
+#809 - Melmetal,#809,Melmetal,Steel,,0,809
+#810 - Grookey,#810,Grookey,Grass,,0,810
+#811 - Thwackey,#811,Thwackey,Grass,,0,811
+#812 - Rillaboom,#812,Rillaboom,Grass,,0,812
+#813 - Scorbunny,#813,Scorbunny,Fire,,0,813
+#814 - Raboot,#814,Raboot,Fire,,0,814
+#815 - Cinderace,#815,Cinderace,Fire,,0,815
+#816 - Sobble,#816,Sobble,Water,,0,816
+#817 - Drizzile,#817,Drizzile,Water,,0,817
+#818 - Inteleon,#818,Inteleon,Water,,0,818
+#819 - Skwovet,#819,Skwovet,Normal,,0,819
+#820 - Greedent,#820,Greedent,Normal,,0,820
+#821 - Rookidee,#821,Rookidee,Flying,,0,821
+#822 - Corvisquire,#822,Corvisquire,Flying,,0,822
+#823 - Corviknight,#823,Corviknight,Flying,Steel,0,823
+#824 - Blipbug,#824,Blipbug,Bug,,0,824
+#825 - Dottler,#825,Dottler,Bug,Psychic,0,825
+#826 - Orbeetle,#826,Orbeetle,Bug,Psychic,0,826
+#827 - Nickit,#827,Nickit,Dark,,0,827
+#828 - Thievul,#828,Thievul,Dark,,0,828
+#829 - Gossifleur,#829,Gossifleur,Grass,,0,829
+#830 - Eldegoss,#830,Eldegoss,Grass,,0,830
+#831 - Wooloo,#831,Wooloo,Normal,,0,831
+#832 - Dubwool,#832,Dubwool,Normal,,0,832
+#833 - Chewtle,#833,Chewtle,Water,,0,833
+#834 - Drednaw,#834,Drednaw,Water,Rock,0,834
+#835 - Yamper,#835,Yamper,Electric,,0,835
+#836 - Boltund,#836,Boltund,Electric,,0,836
+#837 - Rolycoly,#837,Rolycoly,Rock,,0,837
+#838 - Carkol,#838,Carkol,Rock,Fire,0,838
+#839 - Coalossal,#839,Coalossal,Rock,Fire,0,839
+#840 - Applin,#840,Applin,Grass,Dragon,0,840
+#841 - Flapple,#841,Flapple,Grass,Dragon,0,841
+#842 - Appletun,#842,Appletun,Grass,Dragon,0,842
+#843 - Silicobra,#843,Silicobra,Ground,,0,843
+#844 - Sandaconda,#844,Sandaconda,Ground,,0,844
+#845 - Cramorant,#845,Cramorant,Flying,Water,0,845
+#846 - Arrokuda,#846,Arrokuda,Water,,0,846
+#847 - Barraskewda,#847,Barraskewda,Water,,0,847
+#848 - Toxel,#848,Toxel,Electric,Poison,0,848
+#849 - Toxtricity (Amped),#849,Toxtricity (Amped),Electric,Poison,0,849-amped
+#849 - Toxtricity (Low Key),#849,Toxtricity (Low Key),Electric,Poison,0,849-lowkey
+#850 - Sizzlipede,#850,Sizzlipede,Fire,Bug,0,850
+#851 - Centiskorch,#851,Centiskorch,Fire,Bug,0,851
+#852 - Clobbopus,#852,Clobbopus,Fighting,,0,852
+#853 - Grapploct,#853,Grapploct,Fighting,,0,853
+#854 - Sinistea,#854,Sinistea,Ghost,,0,854
+#855 - Polteageist,#855,Polteageist,Ghost,,0,855
+#856 - Hatenna,#856,Hatenna,Psychic,,0,856
+#857 - Hattrem,#857,Hattrem,Psychic,,0,857
+#858 - Hatterene,#858,Hatterene,Psychic,Fairy,0,858
+#859 - Impidimp,#859,Impidimp,Dark,Fairy,0,859
+#860 - Morgrem,#860,Morgrem,Dark,Fairy,0,860
+#861 - Grimmsnarl,#861,Grimmsnarl,Dark,Fairy,0,861
+#862 - Obstagoon,#862,Obstagoon,Dark,Normal,0,862
+#863 - Perrserker,#863,Perrserker,Steel,,0,863
+#864 - Cursola,#864,Cursola,Ghost,,0,864
+#865 - Sirfetch'd,#865,Sirfetch'd,Fighting,,0,865
+#866 - Mr. Rime,#866,Mr. Rime,Ice,Psychic,0,866
+#867 - Runerigus,#867,Runerigus,Ground,Ghost,0,867
+#868 - Milcery,#868,Milcery,Fairy,,0,868
+#869 - Alcremie,#869,Alcremie,Fairy,,0,869
+#870 - Falinks,#870,Falinks,Fighting,,0,870
+#871 - Pincurchin,#871,Pincurchin,Electric,,0,871
+#872 - Snom,#872,Snom,Ice,Bug,0,872
+#873 - Frosmoth,#873,Frosmoth,Ice,Bug,0,873
+#874 - Stonjourner,#874,Stonjourner,Rock,,0,874
+#875 - Eiscue,#875,Eiscue,Ice,,0,875
+#876 - Indeedee,#876,Indeedee,Psychic,Normal,1,876
+#877 - Morpeko,#877,Morpeko,Electric,Dark,0,877
+#878 - Cufant,#878,Cufant,Steel,,0,878
+#879 - Copperajah,#879,Copperajah,Steel,,0,879
+#880 - Dracozolt,#880,Dracozolt,Electric,Dragon,0,880
+#881 - Arctozolt,#881,Arctozolt,Electric,Ice,0,881
+#882 - Dracovish,#882,Dracovish,Water,Dragon,0,882
+#883 - Arctovish,#883,Arctovish,Water,Ice,0,883
+#884 - Duraludon,#884,Duraludon,Steel,Dragon,0,884
+#885 - Dreepy,#885,Dreepy,Dragon,Ghost,0,885
+#886 - Drakloak,#886,Drakloak,Dragon,Ghost,0,886
+#887 - Dragapult,#887,Dragapult,Dragon,Ghost,0,887
+#888 - Zacian,#888,Zacian,Fairy,,0,888
+#888 - Zacian (Crowned Sword),#888,Zacian (Crowned Sword),Fairy,Steel,0,888-cs
+#889 - Zamazenta,#889,Zamazenta,Fighting,,0,889
+#889 - Zamazenta (Crowned Shield),#889,Zamazenta (Crowned Shield),Fighting,Steel,0,889-cs
+#890 - Eternatus,#890,Eternatus,Poison,Dragon,0,890
+#891 - Kubfu,#891,Kubfu,Fighting,,0,891
+#892 - Urshifu (Single Strike Style),#892,Urshifu (Single Strike Style),Fighting,Dark,0,892-sss
+#892 - Urshifu (Rapid Strike Style),#892,Urshifu (Rapid Strike Style),Fighting,Water,0,892-rss
+#893 - Zarude,#893,Zarude,Dark,Grass,0,893
+#894 - Regieleki,#894,Regieleki,Electric,,0,894
+#895 - Regidrago,#895,Regidrago,Dragon,,0,895
+#896 - Glastrier,#896,Glastrier,Ice,,0,896
+#897 - Spectrier,#897,Spectrier,Ghost,,0,897
+#898 - Calyrex,#898,Calyrex,Psychic,Grass,0,898
+#898 - Calyrex (Ice Rider),#898,Calyrex (Ice Rider),Psychic,Ice,0,898-ice
+#898 - Calyrex (Shadow Rider),#898,Calyrex (Shadow Rider),Psychic,Ghost,0,898-shadow
+#899 - Wyrdeer,#899,Wyrdeer,Normal,Psychic,0,899
+#900 - Kleavor,#900,Kleavor,Bug,Rock,0,900
+#901 - Ursaluna,#901,Ursaluna,Normal,Ground,0,901
+#902 - Basculegion,#902,Basculegion,Water,Ghost,0,902
+#903 - Sneasler,#903,Sneasler,Poison,Fighting,0,903
+#904 - Overqwil,#904,Overqwil,Dark,Poison,0,904
+#905 - Enamorus,#905,Enamorus,Fairy,Flying,0,905
